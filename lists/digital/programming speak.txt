@@ -1,0 +1,115 @@
+Adaptive design
+Adaptive interface
+Agile
+Algorithm
+Alpha version
+Anti-pattern
+API
+Application
+Architecture
+Backend
+Beta version
+Big data
+Bootstrap
+Browser
+Brute force
+Bug
+Cache
+Chug report
+Class
+Classification
+Cloud
+Code
+Common law feature
+Cross platform
+CSS
+Data structure
+Debugging
+Deployment
+Documentation
+Domain name
+Drug report
+Duck
+End-to-end
+Enterprise service bus
+Enumeration
+ESB
+Fear-driven development
+Featuritis
+Framework
+Frontend
+Full-stack developer
+Git
+GitHub
+Heisenbug
+Higgs bugson
+Hindenbug
+Hooker code
+HTML
+HTTP
+Hydra
+IaaS
+Indexing
+Information architecture
+Instance
+Iteration
+Java
+Javascript
+Jenga code
+Jimmy
+jQuery
+Lambda
+Languages
+Libraries
+Loch Ness
+Machine learning
+Mad girlfriend bug
+Megamoth
+Method
+Microservices
+Minification
+Mobile-first
+Modularity
+MVP
+MySQL
+Ninja comments
+Object
+Operating system
+PaaS
+PHP
+Plugin
+Protoduction
+Python
+Reality 101 failure
+Recursion
+Refuctoring
+Resolution
+Responsive design
+Rubberducking
+Ruby on Rails
+SaaS
+Sandbox
+Satisficing
+Script
+Selection
+Shrug report
+Sitemap
+Slot
+Smug report
+SSL
+Stack
+Tagging
+Text editor
+Tuple
+UI
+UI design
+Unicorn
+UX
+UX design
+Version control
+Virtualization
+Web 2.0
+Web app
+Wireframe
+Workflow
+Yoda conditions

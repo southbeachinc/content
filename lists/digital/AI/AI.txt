@@ -1,0 +1,72 @@
+Adaptive learning
+Algorithm
+Artificial general intelligence
+Artificial intelligence
+Autonomic system
+Autonomous
+Backpropagation
+Backward chaining
+Bayesian network
+Bias
+Big data
+Bounding box
+Chatbot
+Classification
+Clustering
+Cognitive computing
+Common sense knowledge
+Computational learning theory
+Computer vision
+Convolutional neural network
+Corpus, knowledge
+Deep learning
+Deep mining
+Entity annotation
+Entity extraction
+Forward chaining
+Generative adversarial network
+Genetic algorithm
+Heuristic
+Hyper automation
+Hyperparameter
+Image recognition
+Intent
+Label
+Language model
+Machine intelligence
+Machine learning
+Machine translation
+Model
+Natural language generation
+Natural language processing
+Neural network
+Ontology
+Optical character recognition
+Overfitting
+Parameter
+Pattern recognition
+Predictive analytics
+Reactive machines
+Reasoning model
+Real-time AI
+Reinformment learning
+Robotic process automation
+Robotics
+Semantic annotation
+Sentiment analysis
+Strong AI
+Structured data
+Superintelligence
+Supervised learning
+Swarm robotics
+Tensor processing
+Test data
+Training data
+Transfer learning
+Transformer
+Turing test
+Unstructured data
+Unsupervised learning
+Validation data
+Variance
+Weak AI

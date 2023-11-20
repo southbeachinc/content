@@ -1,0 +1,108 @@
+Acceptance criteria
+Acceptance test
+Acceptance test-driven development
+Agile development
+Agile manifesto
+Antipattern
+Application lifecycle management
+Automated build
+Backlog
+Backlog grooming
+Behavior-driven development
+Big visible charts
+Burndown chart
+Burnup chart
+Business agility
+Collective ownership
+Continuous deployment
+Continuous integration
+CRC cards
+Customer development
+Daily meeting
+Daily scrum
+Daily standup
+Definition of done
+Definition of ready
+Epic story
+Estimation
+Exploratory testing
+Extreme programming
+Facilitation
+Fail fast
+Feature creep
+Fibonacci sequence
+Frequent releases
+Given when then
+Incremental development
+Information radiators
+Integration
+Iteration
+Iterative development
+Kanban
+Kanban board
+Lean software development
+Milestone retrospective
+Minimum marketable feature
+Minimum viable product
+Mob programming
+Mock objects
+Mvf
+Mvp
+Niko-niko calendar
+Open space
+Pair programming
+Personas
+Planning game
+Planning poker
+Points (estimates in)
+Product backlog
+Product owner
+Project chartering
+Quick design session
+Refactoring
+Relative estimation
+Release
+Release plan
+Retrospective
+Rules of simplicity
+Scrum
+Scrum master
+Scrum of scrums
+Scrumban
+Sign up for tasks
+Simple design
+Spike
+Sprint
+Sprint backlog
+Sprint plan
+Sprint planning meeting
+Sprint retrospective
+Sprint review
+Story
+Story mapping
+Story points
+Story splitting
+Sustainable pace
+Swarming
+Task
+Task board
+Team
+Team member
+Team room
+Technical debt
+Test
+Test-driven development
+Three amigos
+Three C's
+Three questions
+Timebox
+Toolchain
+Ubiquitous language
+Unit testing
+Usability testing
+User persona
+User stories
+User story template
+Velocity
+Version control
+Work in process

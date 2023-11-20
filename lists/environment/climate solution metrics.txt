@@ -1,0 +1,30 @@
+Annual operational (operating) cost :: the annual variable and fixed costs of operating and maintaining a given technology over the course of one year.
+Base year adoption :: adoption (in functional units) in 2014,  the fixed starting point for all modeling.
+Baseload :: the minimum amount of electric power needed to be supplied to the electrical grid at any given time to meet consumer demand.
+Capacity factor :: the ratio of the amount of electricity generated to the potential maximum output of the generating unit(s).
+Carbon dioxide equivalent :: a measure that standardizes the global warming potential of various greenhouse gases in terms of the amount of carbon dioxide that would have the same global warming potential.
+Co-benefits :: benefits of climate solutions that extend beyond their ability to reduce emissions or store carbon (e.g., benefits to public health, water quality, biodiversity, advancing human rights).
+Conventional first cost :: the total cost to acquire, install, and implement the conventional technology or practice.
+Conventional technology/practice :: the currently implemented technology or practice that a drawdown solution replaces.
+Cumulative first cost :: the total cost to acquire, install, implement, and replace solutions.
+Cumulative net cost (savings) :: the difference between the maintenance and operational costs of the solution and the maintenance and operating costs of the conventional technology or practice.
+Current adoption :: the amount of functional demand captured by the solution in the current year.
+Current year :: the most recent year of adoption assessed in modeling.
+Dispatchable energy :: energy that can be generated “on call” when consumers demand it. Peaker plants, for example, get turned on when there are spikes in demand at night and burn gas to meet the higher demand at the peak times.
+Emissions factors :: the average emissions from different sources resulting from consumption of a unit of electricity across the global grid. The typical unit is kilograms of carbon dioxide equivalent per kilowatt-hour.
+First cost :: the cost to acquire, install, and implement a solution unit, also known as implementation cost. It includes the learning rate.
+Functional demand :: the goods or services that consumers demand to fulfill a need that can be provided by a conventional technology or practice or a solution. For example, consumers have a functional demand for electricity that can be met using a coal-fired power plant, solar panels, geothermal energy, etc.
+Functional unit :: a unit representing the value provided by the function the solution performs (e.g., amount of light, amount of electricity, distance of mobility).
+Integration :: the step in our analysis and modeling in which we identify and adjust for interactions among all Project Drawdown solutions for consistent accounting.
+Learning rate :: the rate at which costs decrease based on production effici​​​​encies and technological improvements.
+Lifetime operational cost :: the cost to operate a technology or practice through its lifetime of use. The lifetime of a technology/practice is the period from when it is first installed to the time it must be retired (can no longer be repaired and used).
+Market share :: the portion of functional demand in the total addressable market that is captured by different technologies/practices, including conventional and solutions the solution is supplying.
+Net first cost to implement :: the difference between the implementation cost of a solution and the implementation cost of the conventional technology/practice it replaces during the full period of analysis (e.g., the cost of installing a certain number of solar panels around the world compared with the cost of installing conventional energy technologies and practices between 2020 and 2050).
+Net lifetime operating cost / savings :: the cost to operate the conventional technology or practice over its lifetime minus the lifetime operational costs of the solution for all implementation units installed during the analysis period.
+Net operating savings :: the operational costs of the conventional technology or practice minus the operational costs of the solution during the analysis period.
+Perennial staple trees :: trees that provide foods that make up a dominant part of a population's diet and help them meet their nutritional needs. Perennial staple trees include banana, avocado, breadfruit, brazil nut, chachafruto, baobab, and many more.
+Reference scenario :: the case in which the current use of technologies and practices remain proportionally constant over the time period under investigation, adjusting for estimated growth in the total addressable market.
+Solution implementation units :: individual elements that compose a solution (e.g., number of new wind turbines installed, number of new hectares of forests protected).
+Total addressable market :: the total potential demand for the technology or practice from 2014 to 2060, taking into account supply of inputs, demand for outputs, anticipated economic and population growth over time, and other characteristics of the environment.
+Total land area :: the total amount of land available for the solution, based on agroecological characteristics (soil quality, slope, etc.), thermal-moisture zones (tropical, temperate, arid, etc.), and land types (forest, cropland, pasture, etc.)
+Total ocean area :: the total allocation of ocean according to depth, dynamic thermal regimes, and exclusive economic zones.

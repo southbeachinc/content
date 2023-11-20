@@ -1,0 +1,133 @@
+Access point
+Actuator
+Advanced messaging
+Application programming interface
+Artificial intelligence
+Automatic meter reading
+Barcode
+Beacon
+Big data
+Bill of materials
+Blockchain
+Bluetooth
+Bluetooth low energy
+Botnet
+Business process as a service
+Cloud computing
+Cold chain
+Communications protocol
+Computer vision
+Computer-aided design
+Computing in the cloud
+Connected logistics
+Connected manufacturing
+Connected mobility
+Connected utilities
+Constrained protocol
+Contactless
+Cyber physical production
+Cyber system
+Data distribution protocol
+Data driven decision making
+Data filtering
+Data janitor
+Data lake
+Data security
+Deep learning
+Device
+Digital twin
+Edge computing
+Electronic control unit
+Electronic data interchange
+Embedded SIM
+Enterprise resource planning
+Firmware
+Fleet management
+Fog computing
+Gateway
+General data protection regulation
+Geofencing
+Global positioning
+Global trade identifier
+Graphical information
+Haptics
+Hardware
+Hardware virtualisation
+Hub
+Hybrid cloud
+Identity and access management
+IMEI number
+Industrial control system
+Industry 4.0
+Inertial measurement
+Infrastructure as a service
+Integrated circuit identifier
+Intelligent transportation
+International article number
+Internet of everything
+Internet of things
+IoT module
+IoT organisation
+IP address
+IPsec
+Just in time
+Kanban process
+Light detection and ranging
+Lightweight protocol
+Low power wide area network
+Machine learning
+Machine to machine
+Machine type communications
+Malware
+Management as a service
+Manufacturing execution
+Mechatronics
+Messaging queuing
+Metering infrastructure
+Mobile data
+Mobile equipment identifier
+Modbus
+Modem
+Narrowband communication
+Navigation satellite
+Neural network
+Over the air
+Packaging configuration
+Peer-to-peer
+Physical meets digital
+Platform as a service
+Privileged access management
+Product lifecycle management
+Public key infrastructure
+Quality management system
+Radio detection and ranging
+Radio frequency identification
+RESTful web service
+Retail product type
+Robotics
+Router
+Sensor
+Servitization
+Shadow IoT
+Simple object access protocol
+Smart factory
+Smart grid
+Smart label
+Smart manufacturing
+Smart meter
+Smart tag
+Software
+Software as a service
+Subscriber identity
+Supervisory control and acquisition
+TCP/IP
+Telematics
+Telemetry
+Transport layer security
+Uniform resource locator
+Unique identifier
+Wi-Fi
+Wireless modem
+X as a service
+Zero trust
+Zigbee

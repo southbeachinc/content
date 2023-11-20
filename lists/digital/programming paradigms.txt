@@ -1,0 +1,55 @@
+Abductive logic
+Actor based
+Agent oriented
+Abductive logic
+Actor based
+Agent oriented
+Answer set
+Aspect oriented
+Automata
+Block structured
+Class based
+Concurrent
+Constraint based
+Data driven
+Declarative
+Domain specific
+Dynamic / scripting
+Event driven
+Function level
+Functional
+Imperative
+Inductive logic
+Intentional
+Knowledge representation
+Logic based
+Machine learning
+Macro processing
+Mathematical
+Metaprogramming
+Natural language
+Neural net
+Nondeterministic
+Object oriented
+Ontology
+Parallel computing
+Probabalistic
+Procedural
+Process oriented
+Prototype based
+Quantum computing
+Query language
+Reactive
+Recursive
+Reflective
+Reverse polish
+Role oriented
+Scripting
+Set theoretic
+Stack based
+Statistical
+Structured
+Subject oriented
+Symbolic
+Transformer
+Value level

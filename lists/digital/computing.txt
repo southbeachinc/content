@@ -1,0 +1,100 @@
+3D printing (3DP)
+5th generation cellular (5G)
+6th generation cellular (6G)
+Adaptive learning
+Ambient computing
+Artificial brain
+Augmented reality (AR)
+Autonomic systems
+B2B integration
+Big data
+Bioinformatics
+Biometrics
+Blockchain
+Bluetooth
+Brain-computer interface
+Business process management (BPM)
+Business rules management (BRM)
+Central processing unit (CPU)
+Chatbots
+Cloud-native platform
+Collaboration
+Composable applications
+Customer relationship management (CRM)
+Cybersecurity
+Data fabric
+Data processing unit (DPU)
+Data visualisation
+Decentralised finance (DeFi)
+Decision intelligence
+Deep learning
+Deep web
+DevOps
+Digital asset management (DAM)
+Digital ethics
+Digital government
+Distributed computing
+Distributed enterprise
+Drones
+Edge computing
+Electonic data interchange (EDI)
+Enterprise resource planning (ERP)
+Exascale computing
+Flexible electronics
+Game engine
+Generalised agent
+Generative AI
+Gesture recognition
+Graph database
+Graph technologies
+Graphical user interface (GUI)
+Graphics processing unit (GPU)
+Homomorphic encryption
+Hyper automation
+Hyperscale computing
+Immersive VR
+Intelligent processing unit (IPU)
+Internet of Things (IoT)
+Internet of Us
+Language processing
+Machine learning (ML)
+Machine vision
+Mesh network
+Metaverse
+Mobile computing
+Multimodal UI
+Nanotechnology
+Near field communication (NFC)
+Neural network
+Object database
+Operating system (OS)
+Optical computing
+Physics engine
+Quantum computing (QC)
+Radio frequency identification (RfID)
+Real-time AI
+Relational database (RDBMS)
+Robotics
+Rules engine
+Self-supervised learning
+Semantic Web
+Simulated reality
+Smart space
+Software-defined radio (SDR)
+Solid state disk (SDD)
+Spintronics
+Strong AI
+Superintelligence
+Supply chain management (SCM)
+Surveillance technology
+Swarm robotics
+Synthetic data
+Tensor processing unit (TPU)
+The metaverse
+Videoconferencing
+Virtual Assistants
+Virtual reality
+Voice over IP (VoIP)
+Wearable technology
+Workflow management (WFM)
+World Wide Web (WWW)

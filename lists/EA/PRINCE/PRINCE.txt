@@ -1,0 +1,98 @@
+Accept risk
+Acceptance criteria
+Approval
+Assumption
+Assurance
+Authorization
+Avoid risk
+Backlog
+Baseline
+Benefits management
+Benefits tolerance
+Business case
+Change authority
+Change budget
+Change control
+Checklist
+Checkpoint
+Closure recommendation
+Concession
+Configuration item
+Constraint
+Contingent plan
+Corrective action
+Customer expectation
+Deliverable
+Delivery step
+Dependency
+Dis-benefit
+End project report
+End stage report
+Enhance risk response
+Exception
+Exploit risk response
+Flow diagram
+Follow-on action
+Governance
+Impact of risk
+Inherent risk
+Initiation phase
+Issue
+KPI
+Lesson learnt
+Maturity model
+Milestone
+Off-specification
+Outcome
+Output
+Performance target
+Plan
+Planned closure
+Planning horizon
+Portfolio
+Premature closure
+Prerequisites
+Problem
+Procedure
+Process
+Project
+Project assurance
+Project brief
+Project closure
+Project initiation
+Project lifecycle
+Proximity of risk
+Quality assurance
+Quality control
+Quality criteria
+Quality inspection
+Quality review
+Quality tolerance
+Reduce risk response
+Release
+Request for change
+Residual risk
+Responsible authority
+Risk appetite
+Risk estimation
+Risk evaluation
+Risk exposure
+Risk register
+Risk response
+Risk tolerance
+Schedule
+Scope
+Scope tolerance
+Stakeholder
+Tailoring
+Threat
+Time tolerance
+Timebox
+Transfer risk response
+Trigger
+User acceptance
+User story
+Variant
+Version
+Waterfall method
+Work package

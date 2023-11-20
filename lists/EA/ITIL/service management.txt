@@ -1,0 +1,17 @@
+Availability management
+Business analysis
+Capacity and performance management
+Change enablement
+Incident management
+IT asset management
+Monitoring and event management
+Problem management
+Release management
+Service catalogue management
+Service configuration management
+Service continuity management
+Service design
+Service desk
+Service level management
+Service request management
+Service validation and testing

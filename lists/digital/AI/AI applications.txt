@@ -1,0 +1,57 @@
+Artifical life
+Artistic image generation
+Automated reasoning
+Autonomous vehicles
+Biochemistry
+Bioinformatics
+Blind hiring
+Chatbots
+Chess and Go playing
+Computer vision
+Concept mining
+Cyber security
+Cybernetics
+Deep-fakes
+Digital assistants
+Drug development
+Early warning systems
+Energy grid optimisation
+Face recognition 
+Facial recognition
+Fraud prevention
+Games design and engine
+Genetics and genomics
+Handwriting recognition
+Human-robot interaction
+Image set labelling
+In patient monitoring
+Intelligent agents
+Intelligent navigation
+Knowledge representation
+Language translation
+Legal analysis
+Machine data analytics
+Medical diagnosis
+Military applications
+Music generation
+Natural language processing
+Nonlinear control applications
+Optical character recognition
+Pattern recognition
+Personalised learning
+Personalised shopping
+Recommender systems
+Robotics
+Smart content
+Spam filters
+Speech recognition
+Strategic planning
+Surveillance and tracking
+Targetted marketing
+Task automation
+Theorum proving
+Toys and games
+Trading and investment
+Video content analysis
+Voice assistants
+Warehouse automation

@@ -1,0 +1,34 @@
+Challenge pre-existing mental models
+Compare the simulation model with reality
+Create one or more initial hypotheses
+Define and bound the problem to be solved
+Design new strategies and policies
+Develop a meaningful and revealing simulation
+Draw up causal loop diagram(s)
+Estimate key parameters and initial conditions
+Explain causal modes of the situation or system
+Explore the situation in depth and breadth
+Gain new perspectives on the problem
+Identify the information that impact the flows
+Identify the main feedback loops at play
+Identify the most important stocks and flows
+Identify the variables that lead to the problem
+Illustrate the impact of not solving the problem
+Illustrate the impact of the current problem
+Implement the solution in phases
+Link stocks, flows and influences
+Model the stocks and flows
+Perform 'what if' analyses
+Propose strategy and policy changes
+Review known historical behaviour
+Revise hypotheses in light of findings
+Simulate dynamic behaviours at play
+Simulate the model and analyse results
+Statistics, expert opinion and market research
+Think about the past, present and future
+Understand any constraints to a solution
+Understand the details of the problem
+Understand the resources available
+Understand what influences the flows
+Use the simulation model to ask 'what if'
+Write equations that govern the flows

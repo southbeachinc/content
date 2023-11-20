@@ -1,0 +1,20 @@
+Algorithm :: A set of instructions or rules that are followed in order to solve a problem.
+Ant colony optimization :: A search algorithm that uses the principles of ant colonies to find a solution to a problem.
+Constraint :: A limit or restriction on a problem or system.
+Decision variable :: A variable that represents a decision that needs to be made in an optimization problem.
+Genetic algorithm :: A search algorithm that uses principles of natural selection and genetics to find a solution to a problem.
+Global optimum :: A solution that is optimal for all possible sets of constraints.
+Gradient descent :: A search algorithm that moves in the direction of steepest descent in order to find a solution to a problem.
+Heuristic :: A rule of thumb that is used to make decisions or solve problems.
+Local optimum :: A solution that is optimal for a given set of constraints but not necessarily globally optimal.
+Memetic algorithm :: A search algorithm that uses both local search and global search to find a solution to a problem.
+Metaheuristic :: A higher-level heuristic that is used to guide the search for a solution in a problem space.
+Objective function :: A function that is to be optimized in an optimization problem.
+Optimization :: The process of making something as effective or functional as possible.
+Pareto optimality :: A state of affairs where no further improvement can be made without making someone worse off.
+Particle swarm optimization :: A search algorithm that uses the principles of swarms to find a solution to a problem.
+Scatter search :: A search algorithm that starts with a random set of solutions and then iteratively improves them.
+Search space :: The set of all possible solutions to a problem.
+Simulated annealing :: A search algorithm that uses randomness and gradual changes to find a solution to a problem.
+Solution :: A possible solution to a problem.
+Tabu search :: A search algorithm that uses memory to avoid revisiting states that have already been explored.

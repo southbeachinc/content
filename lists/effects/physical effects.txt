@@ -1,0 +1,10 @@
+Biological effect
+Chemical effect
+Electrical effect
+Geometrical effect
+Mechanical effect
+Phychological effect
+Physical effect
+Radiation effect
+Social effect
+Thermal effect

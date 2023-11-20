@@ -1,0 +1,41 @@
+Agent and multi-agent systems
+Bandwidth constrained computing
+Blockchain
+Cloud computing
+Cluster computing
+Co-processors
+Collaboration and workflow systems
+Data center advances
+Data compression
+Data deduplication
+Data differencing
+Data lake
+Distributed systems
+Domain specialized appliances
+Enterprise servers
+Fault tolerance of critical systems
+Firewalls and intrusion protection systems
+Flat and NoSQL bulk data stores
+Graph databases
+Grid computing
+Hardware assurance
+Hyper converged systems
+Intelligent de-duplication
+Micro services
+Mobility solutions
+Multi agent systems
+Network segmentation
+Novel database architectures
+Peer to peer computing
+Quantum computing
+Real time collaboration
+Real time systems
+Remote access technologies
+Remote system management
+Super computing
+Virtual private networks
+Virtualization technology
+Visibility fabrics
+Way back machine
+Wireless futures
+Workload specific systems
