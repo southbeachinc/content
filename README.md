@@ -1,2 +1,2 @@
 # content
-Creativity content for Southbeach Modeller
+Open source creativity content for Southbeach Modeller
