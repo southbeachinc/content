@@ -1,0 +1,133 @@
+Air conditioner
+Alarm
+Armchair
+Atlas
+Barometer
+Basement
+Basket
+Bathroom
+Battery
+Bedroom
+Bookcase
+Bucket
+Bycycle
+Camera
+Car
+Carpet
+Cat
+Chair
+Clock
+Clothes
+Coin
+Computer
+Copier
+Cup
+Cupboard
+Desk
+Dining room
+Dish
+Dog
+Door 
+Doorbell
+Drill
+Dryer
+Egg timer
+Electric fan
+Eraser
+Espresso maker
+Fan
+Fireplace
+Fish
+Flashlight
+Fridge
+Game station
+Garage
+Garbage
+Garden
+Glass
+Glasses
+Glue
+Guitar
+Gym
+Hair dryer
+Hallway
+Hammer
+Hampster
+Handbag
+Hanger
+Headphones
+Heater
+Hose
+Indoors
+Jewelry
+Juicer
+Kettle
+Key
+Kitchen
+Knife
+Lamp
+Laptop
+Leisure room
+Light
+Light switch
+Living room
+Lock
+Magnets
+Makeup
+Medicine
+Memo pad
+Microwave
+Mobile
+Mousetrap
+Mug
+Note paper
+Office
+Outdoors
+Oven
+Paper
+Pen
+Pencil
+Pet
+Piano
+Plate
+Playroom
+Pot
+Printer
+Quilt
+Radio
+Raincoat
+Record player
+Refrigerator
+Router
+Ruler
+Screwdriver
+Sink
+Sitting room
+Smoothing iron
+Sofa
+Spare keys
+Spectacles
+Spoon
+Stapler
+Stereo
+Table
+Telephone
+Thermometer
+Tissues
+Toaster
+Toilet brush
+Toothbrush
+Toothpaste
+Torch
+Towels
+TV
+Umbrella
+Utensils
+Vacuum
+Vase
+Wallet
+Wardrobe
+Washing machine
+Watch
+WiFi
+Window

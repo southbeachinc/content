@@ -1,0 +1,98 @@
+A chance event leading to a belief that a process must have happened many times before
+A claim that is technically true but meaningless or irrevalent
+A low probability of false matches does not mean a low probability of a match being found
+A past thesis is deemed incorrect because it was held at a time when something else, now known to be false, was also commonly held
+A proposition is repeatedly restated regardless of contrary evidence
+An exception to a generalisation is ignored or disregarded
+Appeal to one or more of fear, pity, emotions, flattery, ridicule or judgement
+Appeal to one or more of authority, accomplishments, tradition or wealth
+Appeal to probability
+Appeal to widespread belief, bandwagons, majority views
+Appealing to a discredited source in support of an argument
+Appealing to common sense where common sense does not apply
+Argument by analogy where the analogy is poorly suited
+Argument from fallacy
+Argument from ignorance - claiming truth because it has not or cannot be proven false, or vice versa
+Artificially limiting analysis of the idea, agenda, decision or goal
+Assuming a claim is true based on the absense of text or spoken evidence fron an authority
+Assuming a compromise between two positions is correct
+Assuming historical meaning of a term is necessarily similar to present-day usage
+Assuming one cause when there could be several or none
+Assuming that a decision-maker in the past had access to all pertinent information
+Assuming that a statement about something is true when it is a personal perception
+Assuming that applies to the whole must also be true of a part
+Assuming what applies to a part of a whole must also be true of the whole
+Attacking the arguer instead of the argument
+Basing argument solely upon agregate statistics
+Believing that certain results occured only because a specific process was performend
+Changing the meaing of an argument by not specifying where emphasis falls
+Changing the meaning of a word when an objection is raised
+Cherry picking, argument by half truth, card stacking
+Circular reasoning
+Citing an exemption to a generally accepted rule or principe without justification
+Claiming two arguments are virtually similar when they are not
+Conflating two positions with similar properties
+Confusing correlation between variables with causation of events
+Confusing necessity with sufficiency
+Conjunction fallacy
+Deliberate deception or malfeasance at play in argument, events or decisions
+Denial by the accused serves as evidence of guilt
+Different methods of comparison used, leaving a false impression of the whole
+Disinformation, fake news
+Dismissing a claim as absurd without demonstrating proof of its absurdity
+Dismissing an idea by questioning the motives of its proposer
+Double counting
+Failing to check that the source is a disinterested party
+Failing to take account of unknown unknowns
+Fallacy of the middle ground
+Gambler's fallacy - incorrect belief that independent events can affect the liklihood of another random effect
+Guilt by association
+Hasty or broad generalization based on a small or unrepresentative sample
+I'm entitled to my opinion' - discrediting another's opinion by claiming entitlement to a contrary view
+Ignoring cases or data that contradict the position
+Improperly asserting a cause to explain a cluster of data
+Improperly rejecting a claim for being imprecise
+Inferring that the reason an argument is held true may be purely psychological
+Inferring what 'is' from 'ought'
+Insisting that an argument is consistent with other or related arguments
+Insufficient information is provided to make a complete comparison
+Magical thinking -  false attribution of relationships between actions and events
+Making a decision based on a false 'slipperly slope/thin edge of the wedge' argument
+Making an argument using only quantative observations and discounting subjective information or qualities
+Moving on to other topics too quickly
+Moving the goalposts
+Negative conclusion from positive premise
+Not asking sufficient questions, failing to understand root causes
+Not being able to imagine how something could be true
+Overly generalised conclusions
+Pooh pooh'ing the views of others as being unworthy of consideration
+Positive conclusion from negative premise
+Presupposing something that has not been proven or accepted by everyone
+Projecting present-day ideas into a past context and drawing conclusions from this
+Purporting to use 'true' or 'commonly accepted' meanings
+Red herrings - introducing irrelevant facts or arguments
+Redefining a correlation so that one alternatie is made impossible
+Reification, treating an abstract concept as if it is concrete, a real event or physical entity
+Repeating an argument until nobody cases to discuss or analyse it any more
+Reversing cause and effect - the cause is said to be the effect and vice versa
+Shifting from a controversial position to a modest position when challenged
+Solutions to problems are rejected because they are not perfect
+Straw man fallacy - misrepresentation by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument
+Style over substance - embellishing an argument or idea with compelling language or aesthetics
+Sum of probabilities exceeding unity (1, one)
+The consequence of a phenomenon is claimed to be its root cause
+Treating dissimilar concepts as though they are essentially similar
+Two alternatives are given as only possible options when, in reality, there are others
+Two wrongs (don't) make a right
+Unwarranted necessity in the conclusion
+Using 'loaded' or biased terms, making the argument difficult to refute
+Using a 'middle man' for explanations without understanding their thought process
+Using a valid argument, but which does not address the issue in question
+Using an expert of dubious credentials or using only one opinion to promote an idea
+Using insulting or pejorative language in an argument or situation
+Using multipe, jointly inconsistent arguments to defend a position
+Using the conclusion of an argument in support of itself
+Using vivid detail to mislead or convince someone of importance where it is not justified
+What can happen may never happen
+What happened in the past wil happen in the future
+X happened, then Y happened, therefore X caused Y

@@ -1,0 +1,43 @@
+Adhering inpurities
+Bend fatigue
+Breakdown
+Brittle fracture
+Contact failure
+Corrosion
+Cracks
+Deformation
+Dependent failure
+Deterioration
+Dialectric breakdown
+Diffusion
+Discolouration
+Distortion
+Drop impact
+Dry solder joint
+Ductile fracture
+Dust stress
+Electrical stress
+Erosion
+Fatigue
+Fracture
+Fragility
+Humidity stress
+Insulation failure
+Joint surface interaction
+Light stress
+Load stress
+Mechanical stress
+Moisure ingress
+Overload
+Oxidation
+Photolysis
+Repetitive stress
+Resistance increase
+Rust
+Saltwater stress
+Short circuit
+Strain
+Stress
+Swelling
+Wear
+Wire break

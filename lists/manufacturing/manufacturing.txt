@@ -1,0 +1,10 @@
+Assembly :: the process of putting together parts or components to create a whole
+Inspection :: the process of examining products or services to ensure they meet certain standards
+Inventory :: the stock of goods or materials held by a company
+Manufacturing :: the process of making products or goods by hand or by machine
+Packaging :: the process of enclosing products or goods in containers or packages
+Production :: the process of making or growing something
+Quality assurance :: the process of ensuring that products or services are of the required quality
+Quality control :: the process of ensuring that products or services meet certain standards
+Shipping :: the process of transporting products or goods from one place to another
+Testing :: the process of verifying the functionality of products or services

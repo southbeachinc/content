@@ -1,0 +1,44 @@
+Ability to cast
+Brittleness
+Cohesion
+Compressive strength
+Corrosive resistance
+Creep
+Diffusivity
+Dimensional stability
+Ductility
+Durability
+Elastic strength
+Elasticity
+Fatigue
+Fatigue limit
+Fatigue strength
+Flexibility
+Flexural strength
+Fracture toughness
+Friction
+Hardenability
+Hardness
+Impact resistence
+Impact strength
+Machinability
+Malleability
+Melting point
+Plasticity
+Resilience
+Resistance to rust
+Shear strength
+Shrink rate
+Slip
+Specific strength
+Specific weight
+Stiffness
+Strength
+Strength to density ratio
+Strength to weight ratio
+Surface roughness
+Tensile strength
+Themal expansion
+Toughness
+Viscosity
+Yield strength
