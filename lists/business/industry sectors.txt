@@ -1,0 +1,50 @@
+Advertising
+Aerospace
+Agriculture
+Art
+Automotive
+Central government
+Charity
+Chemical
+Computing
+Construction
+Consumer
+Corporate
+Creative
+Defense
+Education
+Electronics
+Energy
+Entertainment
+Fashion
+Finance
+Food
+Healthcare
+Hospitality
+Industrial
+Information
+Insurance
+Internet
+Leisure
+Local government
+Manufacturing
+Media
+Mining
+News
+Oil
+Public sector
+Publishing
+Real estate
+Research
+Retail
+Robotics
+Science
+Semiconductor
+Services
+Shipping
+Software
+Steel
+Telecommunications
+Textiles
+Transport
+Water

@@ -1,0 +1,30 @@
+Alpaca
+Amphibian
+Bird
+Cat
+Chinchilla
+Dog
+Donkey
+Ferret
+Fish
+Frog
+Gerbil
+Goat
+Guinea pig
+Hamster
+Horse
+Kitten
+Lizard
+Mouse
+Newt
+Parrot
+Puppy
+Rabbit
+Racoon
+Reptile
+Sea monkey
+Snake
+Stick insect
+Tadpoles
+Tropical fish
+Turtle

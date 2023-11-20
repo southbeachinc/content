@@ -1,0 +1,273 @@
+Aardvark
+Accentor
+African buffalo
+African wild dog
+Alligator
+Alpaca
+Alpine chough
+Alpine salamander
+Anaconda
+Andean mountain cat
+Ant
+Anteater
+Antelope
+Aphid
+Arctic wolf
+Armadillo
+Asian black bear
+Asp
+Ass
+Baboon
+Badger
+Bald eagle
+Bandicoot
+Barracuda
+Bass
+Basset hound
+Bat
+Bear
+Bearded dragon
+Beaver
+Bedbug
+Bee
+Bee-eater
+Beetle
+Bird
+Bison
+Black leopard
+Black panther
+Black widow spider
+Blackbuck
+Blue Jay
+Blue sheep
+Blue whale
+Boa
+Bobcat
+Brocket deer
+Brown bear
+Brown skink
+Buffalo
+Bulbul
+Bull shark
+Butterfly
+Buzzard
+Caiman
+Camel
+Capybara
+Caracal
+Cardinal
+Caribou
+Carp
+Cassowary
+Cat
+Caterpillar
+Catfish
+Chameleon
+Chamois
+Cheetah
+Chicken
+Chimpanzee
+Chinchilla
+Chipmunk
+Chiru
+Chough
+Civet
+Clouded leopard
+Coati
+Cobra
+Coconut crab
+Cod
+Colugo
+Condor
+Cotinga
+Cotton rat
+Cougar
+Cow
+Coyote
+Crab
+Crane fly
+Cricket
+Crocodile
+Crow
+Cuckoo
+Deer
+Degu
+Dhole
+Dinosaur
+Dipper
+Dog
+Dolphin
+Donkey
+Dove
+Dragonfly
+Drongo
+Duck
+Duiker
+Eagle
+Echidna
+Eel
+Electric eel
+Elephant
+Elk
+Emu
+Falcon
+Ferret
+Finch
+Fish
+Flamingo
+Flea
+Flowerpecker
+Fly
+Flying squirrel
+Fox
+Frog
+Giant panda
+Giraffe
+Goat
+Goose
+Gopher
+Gorilla
+Grouse
+Guinea pig
+Hamster
+Hare
+Hawk
+Hedgehog
+Hippopotamus
+Hornbill
+Horse
+Hummingbird
+Humpback whale
+Husky
+Hyena
+Hyrax
+Ibex
+Iguana
+Impala
+Jackal
+Jaguar
+Jay
+Jellyfish
+Kangaroo
+Kiang
+Kingfisher
+Klipspringer
+Koala
+Kodkod
+Lammergeier
+Lemur
+Leopard
+Lion
+Lizard
+Llama
+Lobster
+Lynx
+Macaw
+Mandrill
+Margay
+Markhor
+Marmoset
+Meerkat
+Mole
+Mongoose
+Monitor lizard
+Monkey
+Moose
+Mosquito
+Moth
+Mountain zebra
+Mouse
+Mule
+Newt
+Octopus
+Okapi
+Orangutan
+Orca
+Ostrich
+Otter
+Owl
+Ox
+Oyster
+Panda
+Panther
+Parakeet
+Parrot
+Peacock
+Pelican
+Penguin
+Perch
+Pheasant
+Pig
+Pigeon
+Piranha
+Poison dart frog
+Polar bear
+Porcupine
+Possum
+Potoroo
+Ptarmigan
+Quagga
+Rabbit
+Raccoon
+Rat
+Rattlesnake
+Raven
+Red panda
+Red Wolf
+Reindeer
+Rhinoceros
+Rooster
+Salamander
+Scorpion
+Seal
+Shark
+Sheep
+Skunk
+Sloth
+Snail
+Snake
+Snow leopard
+Sparrow
+Spectacled bear
+Spider
+Spider monkey
+Squirrel
+Starfish
+Starling
+Stick bug
+Takin
+Tamarin
+Tapir
+Tarantula
+Tayra
+Tetra fish
+Thrush
+Tiger
+Tit
+Toad
+Toucan
+Tree frog
+Trogon
+Turtle
+Vicuna
+Viper
+Vole
+Vulture
+Wallaby
+Walleye
+Walrus
+Warbler
+Warthog
+Weasel
+Whale
+Whistler
+White-eye
+White-tailed deer
+Whydah
+Wolf
+Wombat
+Woodpecker
+Worm
+Wren
+Yak
+Zebra

@@ -1,0 +1,10 @@
+Theory of Constraints :: A management philosophy that focuses on identifying and removing the bottlenecks that limit an organization's ability to meet its goals.
+Bottleneck :: A constraint that limits an organization's ability to meet its goals.
+Capacity :: The maximum amount of work that an organization can do in a given period of time.
+Efficiency :: The ratio of the output of an organization to the input of resources.
+Goal :: An outcome that an organization strives to achieve.
+Limit :: A boundary or restriction that an organization sets on its activities.
+Objective :: A specific and measurable goal that an organization sets out to achieve.
+Productivity :: The ratio of the output of an organization to the input of resources.
+Target :: A specific goal that an organization sets out to achieve.
+Utilization :: The percentage of an organization's capacity that is being used.
