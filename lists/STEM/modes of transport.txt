@@ -1,0 +1,7 @@
+Air
+Rail
+Road
+Sea
+Land
+Water
+Space

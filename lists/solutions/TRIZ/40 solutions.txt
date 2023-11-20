@@ -1,0 +1,47 @@
+Avoid parameter changes that have harmful side effects
+Bringing the identical or similar together, assemble multiple to parallelise
+Change solution parameters according to need
+Change the appearance to make it fit in or stand out
+Change the shape, envelope, or guard-rails to change stimulation, flexibility, or predictability
+Change, control, or develop aspects of an agent to make it more suitable
+Combine agents with opposite qualities so they cancel out
+Create a buffer, slack, reserves, or compensatory action in preparation
+Create new agents by combining the best of multiple kinds of agents to achieve the desired capability
+Create the space you need by adding dimensions, layers, stories, axes, apects
+Divide into independent segmented parts
+Divide into parts and make it flexible by linking the parts
+Enable agents to help themselves either from the environment or by adding self improving or maintaining functions
+Find a way to make use of harmful side effects or factors in the environment
+Find the easiest way to achieve the goal whilst removing unwanted side effects
+Get the most out of everything all the time
+Go with the flow, or design for adaptability to the changing environment
+Identify and make use of resource variance during changes, especially repeated, periodic changes
+Introduce feedback to improve a process or action
+Invert or use actions that are in some sense opposite
+Make an agent perform multiple functions, eliminate the need for multiple agents
+Make more of something to increase capacity
+Make more of the useful, instead of using expensive or originals, make copies that are just good enough
+Make use of a temporary change to a quality of something just long enough to make it fit in the system
+Once an agent has fulfilled its function, discard it and recover it later
+Perform an action with harmful side effects quickly to reduce its harm
+Perform the required change before it is needed
+Permit flow with semi-permeable interfaces, or storage with accessible internal structures
+Precede a harmful action with a compensating one to cancel it out
+Provide different quality solutions in different areas depending on need
+Put one agent inside another, repeat
+Replace a continuous action with a periodic one
+Replace a physical solution with a sensory or field-based one
+Replace a reactant, transformation agent, or energy source with a more powerful one
+Replace agents requiring maintenance with discardable, replaceable agents
+Replace an irritating or toxic environment with with a bland or unobtrusive one
+Replace rigid or breakable structures with more fluid, flexible, and reactive agents
+Separate an interfering part or property, or single out the necessary part
+Use an intermediary instead of the real thing to protect it
+Use an intermediary to enable an action that otherwise would not be possible
+Use an intermediary to isolate, insulate, protect, ease, or otherwise improve an interface or process
+Use lighter weight, simpler, or easier to manage surfaces, layers, or structures
+Use oscillation, change the frequency, find a way to resonate
+Use parts or particles instead of the whole thing
+Use similar or identical agents that need to work together to avoid harmful side effects to adverse reactions to differences
+Use structures that are inherently strong or paths that inherently flow
+Work with a copy to reduce risk to the original, e.g. so the original doesn't get damaged

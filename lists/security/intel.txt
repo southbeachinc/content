@@ -1,0 +1,45 @@
+Anonymizers
+Bios ID
+Browsing history
+Buying habits
+COMINT
+Command & control
+Communications metadata
+Contact chaining
+Cookies
+CPU ID
+Diarisation
+DIGINT
+Disk image
+Event derivation
+Financial payments history
+Full packet capture
+Gaming monitoring
+Geo time profiles
+Geospatial
+Host referers
+HUMINT
+IMEI number
+IP address
+IP flow
+Lifelogs
+MAC Address
+Mobile device location
+Movement tracking
+Netflow
+Network ID
+Obscured information retrieval
+OSINT
+Patterns of life
+Population scale system
+Privacy preserving algorithm
+Private information retrieval
+Push and real-time analytics
+Query focused datasets
+Recommender systems
+SIGINT
+Situational awareness
+Social media interactions
+Target detection identifier
+Unattributable Internet access
+Virtual worlds monitoring

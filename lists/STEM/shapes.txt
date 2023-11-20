@@ -1,0 +1,39 @@
+Acute triangle
+Buckyball
+Circle
+Cone
+Crescent
+Cube
+Cuboid
+Cylinder
+Decagon
+Equilateral triangle
+Hexagon
+Hexagram
+Isosahedron
+Isosceles triangle
+Kite
+Lozenge
+Nonagon
+Obtuse triangle
+Octagon
+Oval
+Parallelogram
+Pentagon
+Polygon
+Pyramid
+Quadrilateral
+Rational triangle
+Rectangle
+Rhombus
+Right triangle
+Round
+Scalene triangle
+Semicircle
+Sphere
+Square
+Star
+Trapezium
+Trapezoid
+Triangle
+Tube

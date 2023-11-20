@@ -1,0 +1,39 @@
+Adaptability or versability
+Area of moving object
+Area of stationary object
+Device complexity
+Difficulty of detecting and measuring
+Duration of action by moving object
+Duration of action by stationary object
+Ease of manufacture
+Ease of operation
+Ease of repair
+Extent of automation
+Force (intensity)
+Illumination intensity
+Length of moving object
+Length of stationary object
+Loss of energy
+Loss of information
+Loss of substance
+Loss of time
+Manufacturing precision
+Measurement accuracy
+Object affected harmful factors
+Object generated harmful factors
+Power
+Productivity
+Quantity of substance
+Reliability
+Shape
+Speed
+Stability of composition
+Strength
+Stress or pressure
+Temperature
+Use of energy by moving object
+Use of energy by stationary object
+Volume of moving object
+Volume of stationary object
+Weight of moving object
+Weight of stationary object

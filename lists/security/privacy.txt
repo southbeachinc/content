@@ -1,0 +1,191 @@
+Access control list
+Accidental data loss
+Active data collection
+Ad blocker
+Aggregate consumer information
+Anonymised information
+Assumed consent
+Automated decision making
+Behavioral advertising
+Behavioural features
+Big brother
+Big data
+Biometric information
+Blackmail
+Bodily privacy
+Breach disclosure
+Browser fingerprint
+Browser fingerprinting
+Bulk data collection
+Business purpose
+Cacheing
+CCTV video
+Chat bots
+Chief privacy officer
+Classified information
+Collection limitation
+Computer forensics
+Confidentially
+Consumer protection
+Contact information
+Contextual advertising
+Cookies
+Criminal history
+Cross border processing
+Cross site scripting
+Cross-device tracking
+Cyber liability
+Cyberbullying
+Dark patterns
+Dark web
+Data aggregation
+Data breach
+Data broker
+Data code of conduct
+Data collection
+Data compliance
+Data concerning health
+Data controller
+Data destruction
+Data disclosure
+Data governance
+Data integrity board
+Data lifecycle
+Data loss prevention
+Data masking
+Data matching
+Data minimization principle
+Data mining
+Data portability
+Data privacy
+Data processing
+Data protection
+Data retention
+Data security
+Data sharing
+Data transparency
+Deceptive trade principles
+Deep fakes
+Deep learning
+Defamation
+Deidentified information
+Device hyjacking
+Digital fingerprinting
+Digital signature
+Discretionary access control
+Do not track
+Electronic health record
+Employee information
+Encryption
+Facial identification
+Federated identity
+Financial account numbers
+Genetic characteristics
+Genetic information
+Geo-social patterns
+Geotargetting
+Globally unique identifier
+Government id
+Health history
+Identity theft
+Immigration status
+Incognito mode
+Information hiding
+Information security service
+Intentional data loss
+Internal data policies
+International data transfer
+Key logging
+Legal privacy
+Linkability
+Location tracking
+Mailing address
+Malware
+Mandatory access control
+Medical diagnosis
+Mental health condition
+Metadata
+Multi-factor authentication
+Non-repudiation
+Obfuscation
+Opt-in consent
+Opt-out consent
+Passive data collection
+Password
+Password manager
+Pattern of life
+Perimeter controls
+Personal identity
+Personal information
+Personal privacy
+Personal profiling
+Pharming
+Phishing
+Physical health condition
+Political opinions
+Postal marketing
+Privacy alliance
+Privacy engineering
+Privacy law
+Privacy notice
+Privacy officer
+Privacy patterns
+Privacy policy
+Privacy risk
+Privacy shield
+Privacy standard
+Privacy standards
+Privacy-enhancing technology
+Probabalistic identifier
+Profiling
+Pseudonymising
+Public interest
+Public records
+Race/ethnic origin
+Racial profiling
+Regulatory privacy
+Religious beliefs
+Right to be forgotten
+Right to correct
+Right to deletion
+Right to object
+Right to privacy
+Rights of the individual
+Run time behaviour monitoring
+Scanning tools
+Secret key
+Sensitive personal information
+Sexual orientation
+Single-factor authentication
+Single-sign-on (SSO)
+Social engineering
+Spam
+Spear phishing
+Speech recognition
+Super cookie
+Surveillance
+Surveillance data collection
+Syndicated content
+Technical privacy
+Territorial privacy
+Third party
+Third-party trackers
+Tokenization
+Trackers
+Trojan horse
+Two-factor authentication (2FA)
+Unclassified information
+Unique identifier
+Use limitation
+Value-sensitive design
+Verifiable consumer request
+Video surveillance
+Virtual credit card (VCC)
+Virtual private network (VPN)
+Web beacon
+Whaling
+Whistle blowing
+Worm
+Write once read many
+Written consent
+Zero knowledge

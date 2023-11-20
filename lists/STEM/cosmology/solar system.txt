@@ -1,0 +1,14 @@
+Asteroid belt
+Earth
+Jupiter
+Mars
+Mercury
+Moon
+Neptune
+Oort cloud
+Planet9
+Pluto
+Saturn
+Sol
+Uranus
+Venus

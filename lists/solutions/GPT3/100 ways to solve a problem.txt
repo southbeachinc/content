@@ -1,0 +1,88 @@
+GPT3, list 100 ways to solve a problem
+Adapting to new technology or software that could be beneficial to the problem-solving process
+Analyzing data
+Applying a "Design Thinking" approach to the problem
+Applying the 80/20 rule
+Asking for feedback
+Brainstorming
+Breaking down the problem into smaller, manageable parts
+Collaborating with other teams or organizations
+Communicate effectively with all stakeholders involved and ensure everyone is on the same page
+Conducting a 5 Whys analysis
+Conducting a benchmark analysis to compare against industry standards
+Conducting a control chart
+Conducting a cost-benefit analysis
+Conducting a failure modes and effects analysis
+Conducting a FMEA
+Conducting a gap analysis
+Conducting a root cause analysis
+Conducting a Six Sigma process
+Conducting a stakeholder analysis
+Conducting a SWOT analysis
+Conducting an analysis of data
+Conducting surveys or interviews
+Consulting experts
+Creating a control chart
+Creating a decision tree
+Creating a fishbone diagram
+Creating a flowchart or diagram
+Creating a Gantt chart
+Creating a Pareto chart
+Creating a PERT chart
+Creating a problem-solving checklist or template
+Creating a process map
+Creating a project plan
+Creating a prototype or mock-up
+Creating a service blueprint
+Creating a SIPOC diagram
+Developing a mind map
+Embracing the power of failure, experimenting and learning from it
+Holding group meetings or discussions
+Implementing a 5S program
+Implementing a change management plan
+Implementing a collaboration with other teams or organizations
+Implementing a Kaizen event
+Implementing a Kanban system
+Implementing a Pareto chart
+Implementing a PERT chart
+Implementing a pilot program
+Implementing a Six Sigma process
+Implementing a statistical process control
+Implementing a time management strategy
+Implementing a Total Quality Management program
+Implementing a TQM program
+Implementing a Value Stream Map
+Leveraging resources such as online communities or forums for guidance and support
+Outsource the problem or hire a consultant to provide an objective perspective
+Prioritizing and focusing on the most important aspects of the problem
+Reflecting on the problem and considering different perspectives to gain new insights
+Researching
+Using a brainstorming software or tool
+Using a creative thinking technique such as lateral thinking or SCAMPER
+Using a critical path analysis
+Using a decision matrix
+Using a decision tree
+Using a decision-making process
+Using a fishbone diagram
+Using a flowchart
+Using a Force Field Analysis
+Using a Gantt chart
+Using a gap analysis
+Using a histogram
+Using a Ishikawa diagram
+Using a Mind map
+Using a Pareto chart
+Using a PERT chart
+Using a problem-solving method such as the 5 Whys or Root Cause Analysis to identify the underlying causes of the problem
+Using a process flow diagram
+Using a process mapping technique
+Using a project plan
+Using a Scatter plot
+Using a statistical process control
+Using a survey or interview
+Using a SWOT analysis
+Using a Value Stream Map
+Using the 80/20 rule
+Utilizing a flowchart or diagram
+Utilizing a problem-solving framework, such as the 8D method or A3 thinking
+Utilizing artificial intelligence or machine learning techniques

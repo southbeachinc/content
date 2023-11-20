@@ -1,0 +1,38 @@
+Anti-fraud information technologies
+Authorship analysis and identification
+Automated fused analytics
+Collaboration systems for intelligence sharing
+Crime big data mining and algorithms
+Crime pattern recognition and modeling
+Criminal activity forecasting
+Criminal data mining and network analysis
+Criminal networks analysis
+Cyber crime detection and analysis
+Cyber crime monitoring and filtering
+Data mining for counter terrorism
+Data mining methods for security
+Deception and intent detection
+Detection and analysis of online abuse of children
+Detection of Internet grooming
+Document classification and meta data
+Document similarity
+Fraud detection
+Fused analytics and data fusion
+Impact of crime analysis
+Information extraction solutions
+Information sharing for intelligence discovery
+Integration of intelligence data sets
+Intrusion detection and prevention
+Large errorfull data set processing
+Law enforcement decision support
+Multi-agent systems for security and surveillance
+Novelty detection
+Pattern recognition
+Query focused datasets
+Risk analytics
+Spatiotemporal analysis of crime data
+Terrorism analytics methods and software tools
+Terrorism informatics
+Terrorist activity detection in the web
+Text and language analysis
+Vulnerability detection

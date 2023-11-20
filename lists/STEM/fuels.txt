@@ -1,0 +1,34 @@
+Battery
+Bio-diesil
+Biofuel
+Biomass
+Charcoal
+Chemical
+Diesil
+Electricity
+Fission
+Flywheel
+Fossil fuel
+Fuel cell
+Fusion
+Gas
+Heat
+Hybrid
+Hydrocarbon
+Hydroelectric
+Hydrogen
+Hypergolic
+Liquid
+LPG
+Mechanical
+Natural gas
+Nuclear
+Peat
+Petroleum
+Solar
+Solid
+Steam
+Thermal
+Tidal
+Wind
+Wood

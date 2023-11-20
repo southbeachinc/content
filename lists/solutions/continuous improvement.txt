@@ -1,0 +1,26 @@
+Continuous improvement :: A process of making small, incremental changes in order to improve efficiency and quality. 
+Lean manufacturing :: A system of production that emphasizes waste reduction and efficiency. 
+Six Sigma :: A quality control methodology that seeks to reduce defects to less than 3.4 defects per million opportunities. 
+Kaizen :: A Japanese philosophy of continuous improvement. 
+Value stream mapping :: A tool used to visualize the flow of materials and information in a process. 
+5S :: A system for organizing and streamlining the workplace. 
+Standard work :: A set of procedures that define how a task should be performed. 
+Poka-yoke :: A Japanese term for mistake-proofing. 
+Jidoka :: A Japanese concept of built-in quality control. 
+Andon :: A Japanese term for a visual control that signals when a process is not working correctly. 
+Total productive maintenance :: A system for maintaining and improving equipment. 
+Cellular manufacturing :: A type of manufacturing that organizes the workplace into cells. 
+Single-piece flow :: A type of manufacturing that produces one piece at a time. 
+Pull system :: A type of manufacturing that only produces what is needed, when it is needed. 
+Kanban :: A Japanese system for managing work flow. 
+Heijunka :: A Japanese term for level loading, or creating a smooth production schedule. 
+Visual management :: A system of using visual cues to communicate information and improve efficiency. 
+Error proofing :: A system for preventing mistakes from being made in the first place. 
+5 why :: A problem-solving technique that seeks to identify the root cause of an issue. 
+8D :: A problem-solving methodology that includes 8 steps: define, measure, analyze, improve, control, standardize, verify, and take action. 
+DMAIC :: A problem-solving methodology that includes 5 steps: define, measure, analyze, improve, and control. 
+PDCA :: A problem-solving methodology that includes 4 steps: plan, do, check, and act. 
+A3 report :: A problem-solving tool that uses a standard format to document a problem, its root cause, and the proposed solution. 
+Fishbone diagram :: A problem-solving tool that helps to identify the root cause of an issue. 
+5 whys :: A problem-solving technique that seeks to identify the root cause of an issue. 
+Root cause analysis :: A problem-solving technique that seeks to identify the root cause of an issue.

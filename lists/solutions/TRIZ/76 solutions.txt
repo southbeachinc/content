@@ -1,0 +1,76 @@
+Add a second more controllable element
+Add attracting elements to the environment
+Add something externally
+Add something internally
+Add something temporarily and then remove it
+Add something which will disappear after it has done its job
+Apply a maximum action to achieve the result
+Apply incremental actions to achieve the result
+Attach externally instead of internally
+Combine elements from a lower structural level
+Combine the system with another system
+Concentrate something at selected places
+Construct a minimum model sysem
+Create a bi-system or poly-system
+Decompose the environment to obtain new system elements
+Decrease differences between system components
+Decrease order and uniformity in the system
+Detect or measure a copy of the component
+Detect or measure via effects of the system on its environment
+Distribute incompatible components among the system and its parts
+Draw the harmful effect away
+Employ a phase transition
+Exploit a phenomenon that occurs during transition
+Exploit interactions beween system phases
+Exploit resonances in all or parts of the system
+Exploit resonances in the environment
+Find a way to detect or measure indirectly
+Form a system from a combination of fields
+Improve links within the parts of the composite system
+Improvement measurements or detection
+Increase differences between system components
+Increase order in the system
+Increase the segmentation of the system
+Integrate components to reduce system complexity
+Introduce a copy of something
+Introduce a detectable or measureable element
+Introduce a modified element between the two
+Introduce a selective protection
+Introduce a third element between the two
+Introduce additives to create complex structures
+Introduce something which can be decomposed
+Introduce voids instead of substances
+Make the system less or more uniform
+Make the system more flexible or movable
+Make the system more generic or adaptable
+Make use of a field already present inside
+Make use of a field in the environment
+Make use of physical, chemical or biological effects
+Match the frequency of each mode of use
+Match the natural frequency of the system
+Match the rthyhm of the system to the environment
+Modify something in the environment
+Modify to make detection or measurement unnecessary
+Neutralise the existing harmful element
+Place the transforming element close to its trigger point
+Remove unnecessary surpluses
+Replace a single phase system with a dual phase system
+Replace a solid with a fluid
+Replace a solid with small particles
+Replace the uncontrollable with something controllable
+Selectively enhance an action
+Think about new fields and not just new elements
+Transform something so that it is controllable
+Transform the problem to one involving successive system changes
+Transition from solid to hollow to porous
+Transition from the macro to the micro level
+Turn off the offending property
+Use a proxy for the measurement
+Use a reversible phase transition
+Use a small quantity of something very active
+Use an attracting substance and an attracting field
+Use something in the environment
+Use the system itself as its own tool
+Use unusual materials with a porous structure
+Use voids, foams or inflatable structures
+Where incompatible, perform one action during pauses in the other
