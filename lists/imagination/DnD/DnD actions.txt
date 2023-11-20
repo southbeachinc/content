@@ -1,0 +1,62 @@
+Activate magic
+Aid another
+Apply an oil
+Cast a spell
+Charm offensive
+Climb up / through
+Close a door
+Coup de grace
+Dash / run
+Delayed action
+Disarm
+Disengage
+Dismiss a spell
+Dissolve
+Dodge
+Draw a weapon
+Drop an item
+Escape a grapple
+Escape from a net
+Extinguish flame
+Feint
+Fight defensively
+Give help
+Go prone
+Grapple
+Heal (first aid)
+Hide
+Hide in plain sight
+Intimidate
+Jump up / across
+Light a torch
+Listen
+Manipulate the item
+Melee attack (brawl / fight / strike)
+Move to
+Open a door
+Overrun
+Persuade
+Pick up item
+Ranged attack (shoot / throw)
+Ready / hold
+Ready a sheild
+Ride / drive / pilot
+Run away
+Run to
+Search / investigate
+Shove
+Sleight of hand
+Speak
+Swim
+Take aim
+Take cover
+Total attack
+Total defense
+Trigger under condition
+Trip the opponent
+Unlock weapon
+Use a special ability
+Use an item
+Vanish
+Withdraw immediately
+Withdraw slowly

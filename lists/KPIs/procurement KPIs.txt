@@ -1,0 +1,21 @@
+Compliance rate
+Cost of purchase orders
+Dependency on suppliers
+Emergency purchase ratio
+Future procurement cost avoidance
+Internal costs incurred by each purchase
+Lead time to procure
+Number of suppliers
+Procurement cost reduction
+Procurement ROI
+Purchase order cycle time
+Purchases in time & budget
+Spend under management
+Supplier availability
+Supplier capacity to respond to demand
+Supplier defect rate
+Supplier individual quality
+Supplier quality rating
+Total time to procure
+Understand if suppliers fulfil your requirements
+Vendor rejection rate & costs

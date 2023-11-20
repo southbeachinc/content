@@ -1,0 +1,45 @@
+% of overdue project tasks
+Actual cost
+Adjustments To schedule
+Average time to delivery
+Billable utilization
+Budget iterations
+Budget variance (planned vs. actual)
+Change requests
+Cost of managing processes
+Cost performance index (CPI)
+Cost variance (planned budget vs. actual budget)
+Customer complaints
+Earned value (EV)
+Estimate to complete
+Manpower spent / month
+Milestones on Time %
+Missed milestones
+Money spent / month
+Net Promoter Score (NPS)
+Number of budget iterations
+Number of canceled projects
+Number of errors
+Number of new tasks
+Number of overdue assignments
+On-Time completion %
+Overdue project tasks / crossed deadlines
+Percentage of cancelled projects
+Percentage of projects completed on time
+Percentage of projects on budget
+Percentage of tasks completed
+Planned delivery date vs. actual delivery date
+Planned hours of work vs. actual situation
+Planned hours of work vs. actual worked hours
+Planned manpower / month
+Planned spend / month
+Planned value (PV)
+Planned vs. Actual Hours
+Project overhead / ROI
+Project resource utilization
+Resource capacity %
+Resource utilization
+Return on investment (ROI)
+Schedule performance index (SPI)
+Schedule variance (SV)
+Tasks / staff

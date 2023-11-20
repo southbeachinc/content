@@ -1,0 +1,18 @@
+Code churn
+Code coverage
+Code stability
+Cumulative flow
+Cycle time
+Flow efficiency
+Issues by feature
+Number of closed support tickets
+Number of issues
+Number of issues fixed
+Number of milestones completed
+Number of new assets
+Number of new support tickets
+Number of open pull requests
+Number of pull requests
+Number of unanswered support tickets
+Sprint burndown
+Sprint velocity

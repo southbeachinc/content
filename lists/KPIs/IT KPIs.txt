@@ -1,0 +1,37 @@
+Accuracy of estimates
+Average handle time
+Average time between failures
+Average time to repair
+Backup frequency
+Critical bugs
+Cyber security rating
+Dealing with unexpected events
+Employee awareness of cyber threats
+Frequency and type of threats
+IT costs break down
+IT costs vs. revenue
+IT ROI
+IT spending vs. budget
+IT support employees per end user
+IT team turnover
+Mean time to detect
+Mean time to repair
+New developed features
+Number of critical bugs
+Number of intrusion attempts
+Open support tickets
+Profit from IT investment
+Projects delivered on budget
+Reopened tickets
+Security related downtime
+Server downtime
+Team attrition rate
+Ticket resolution time
+Total IT projects
+Total support tickets
+Total vs. open tickets
+Understanding causes of bugs
+Understanding causes of downtime
+Understanding causes of threats
+Unsolved tickets per employee
+Uptime %

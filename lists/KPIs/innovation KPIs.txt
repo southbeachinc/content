@@ -1,0 +1,64 @@
+% of new ideas that lead to larger initiatives
+Annual R&D budget as a percentage of annual sales
+Customer success based on your products or services
+Customers on new products vs. customers on old products
+Deliberate innovation vs. accidental innovation
+Effort spent on implementations vs. effort spent on concept development
+Employee suggested projects success vs. failure
+Extent of open innovation
+Ideas / ideation campaigns
+Ideas that make a profit vs. deas that sell
+Ideas that reach concept design vs. delivered ideas
+Ideas that sell vs. implemented ideas
+Implemented designs vs. conceptual designs
+Initiatives that include 'new' technology
+Innovation funnel capacity
+Innovation funnel half life
+Innovation funnel loss
+Innovation funnel profit
+Innovation funnel rate of flow
+Innovation funnel rate of input
+Innovation funnel rate of output
+Innovation projects portfolio
+Leadership agreement on innovation strategy
+Market share growth from new products & services
+New customers from new products or services
+New IP generated
+New segments and sector entry from new products and services
+Number of active projects
+Number of corrective projects initiatied
+Number of employee hours spent on independent research and ideation
+Number of ideas delivering ROI
+Number of ideas implemented
+Number of ideas initiating projects
+Number of ideas submitted by employees
+Number of new ideas
+Number of new ideas tried
+Number of patents filed in the past year
+number of problems identified
+number of problems solved
+Number of projects changing current way of doing business
+Number of projects that use new technology
+Patents created per year
+Patents protecting market share
+Patents submitted
+Percentage of sales from products introduced in the past X year(s)
+Problems not reappearing
+Profit from new products & services
+Profit from new products & services vs. profit from existing products & services
+R&D
+Rate of return on innovation investment
+Rate of transfer of capital investment to new capabilities
+Revenue driven by changes in technology, process
+Revenue driven by projects that use new technology
+Revenue from new products & services
+Revenue generated from licensing patents
+Revenue produced by innovation initiatives
+Revenue protected by patents
+Time employees spend developing ideas into proposals
+Total R&D headcount or budget as a percentage of sales
+Transformational change initiatives success vs. failure
+Use of formal creativity tools & techniques
+Use of formal idea management tools & techniques
+Use of formal problem solving tools & techniques
+Value of ideas

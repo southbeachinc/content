@@ -1,0 +1,43 @@
+Abandoned call rates
+Average conversion rate
+Average reply time
+Average resolution time
+Average response time
+Call back on same issue
+Cost per conversation
+Cost per conversation
+Customer churn rate
+Customer effort score
+Customer effort score
+Customer engagement level
+Customer lifetime value
+Customer retention
+Customer satisfaction score
+Customer turnover rate
+Feedback on customer experience
+First call resolution
+First contact resolution
+First contact resolution rate
+First response time
+First response time (FRT)
+Knowledge base articles
+Monthly new customers
+Most active support agents
+Net promoter score
+Number of active subscriptions
+Number of calls to customer service
+Number of customer complaints
+Number of invoices
+Number of issues by type
+Number of issues over time
+Number of new tickets
+Number of refunds
+Number of resolved tickets
+Number of support tickets
+Positive customer reviews
+Service level
+Support costs vs. revenue
+Time customers on hold
+Top customer agents
+Top support agents
+Volume by channel

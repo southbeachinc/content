@@ -1,0 +1,14 @@
+Average delivery time
+Number of shipments
+Order accuracy
+Degree of incidents
+Pick & pack costs
+Pick & pack cycle time
+Picking accuracy
+Picked without errors
+Shipping time
+Order fulfilment issues
+Transportation costs
+Costs from order to delivery
+Use of packing material
+Warehousing costs

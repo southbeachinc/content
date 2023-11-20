@@ -1,0 +1,41 @@
+Average purchase value
+Average units sold per transaction
+Budget variance
+Cost of maintaining staff
+Current accounts payable
+Current accounts receivable
+Current ratio (assets/liabilities)
+Customer acquisition cost
+Customer lifetime value
+Customer satisfaction score
+Daily product or service use
+Debt to equity ratio
+Duration of average calls
+Employee satisfaction rating
+Expenses vs. budget
+Gross margin
+Gross profit margin
+Hourly, daily, weekly, monthly, quarterly and annual number of products sold
+Hourly, daily, weekly, monthly, quarterly and annual sales
+Lead-to-sale conversion rate
+Market share
+Net profit margin
+Number of calls completed
+Number of expansions
+Number of monthly orders
+Number of product reviews
+Online orders vs. in-store purchases
+Operating margin
+Projected revenue vs. actual revenue
+Resource utilization
+Revenue per customer
+Revenue per FTE
+ROA (return on assets)
+ROE (return on equity)
+Sales by product or service
+Sales by region
+Sales growth
+Sales per sales representative
+Sales target % (actual/forecast)
+Vendor expenses
+Working capital
