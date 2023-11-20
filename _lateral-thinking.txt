@@ -1,0 +1,266 @@
+// A MyCreativity ruleset library for Southbeach Modeller v4
+// https://www.southbeachinc.com
+// support@southbeachinc.com
+
+// *************************************************************************************************
+// MyCreativity Content For Southbeach Modeller © 2005-2023 by Howard Smith and Mark Burnett
+// is licensed under Attribution-ShareAlike 4.0 International CC BY-SA 4.0. To view a copy of 
+// this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+//
+// This license requires that reusers give credit to the creator. It allows reusers to distribute, 
+// remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
+// If others remix, adapt, or build upon the material, they must license the modified material under 
+// identical terms.
+// *************************************************************************************************
+
+// The rulesets were originally delivered in v3 of the software. 
+// The content is provided in v4 for legacy support.
+
+// The example rules are named in the '#_legacy' category so that
+// they do not clash with the names of rulesets delivered in v4.
+
+// HELP
+// Read the MyCreativity manual in the southbeach documents folder
+// Or visit http://www.southbeachinc.com/help/index.html 
+// Or write to support@southbeachinc.com
+
+// -------------------------------------------------------------------------------
+
+//
+// Six Thinking Hats, inspired by the work of Edward De Bono
+//
+
+// White - facts and figures - information available and needed
+// Red - feelings and emotions - opinions, intuition and hunches
+// Black - devil's advocate - critical judgement, why it won't work, cautions and difficulties
+// Yellow - positive view - why it will work, values and benefits
+// Green - innovation and new ideas - alternatives and creative thinking
+// Blue - the big picture - managing the thinking process
+
+
+#_legacy.six hats
+
+* "What are the facts and figures around {this}?"
+* "What is your gut reaction to {this}?"
+* "What are the flaws and barriers in {this}?"
+* "What are the benefits of {this}?"
+* "Where does {this} take us? Are there creative alternatives?"
+* "How should we think about {this}? Does {this} suggest a big picture?"
+
+//
+
+*(,) "What are the facts and figures around {this}?"
+*(,) "What is your gut reaction to {this}?"
+*(,) "What are the flaws and barriers in {this}?"
+*(,) "What are the benefits of {this}?"
+*(,) "Where does {this} take us? Are there creative alternatives?"
+*(,) "How should we think about {this}? Does {this} suggest a big picture?"
+
+
+#_legacy.six hats.white
+
+* "What do we already know about {this}? What are the facts?"
+* "Who else knows about {this}? What light can they shed?"
+* "Where is {this} used? What does that tell us?"
+* "What is the life-cycle of {this}? What did it come from? What does {this} turn into?"
+* "How can we coroborate our hunches about {this}? What evidence is there?"
+* "How can we quantify what we know about {this}?"
+* "What disagreement is there about {this}? How can we be more objective?"
+* "What more do we need to know about {this}?"
+* "How can we get the new information about {this} that we need?"
+
+//
+
+*(,) "What do we already know about {this}? What are the facts?"
+*(,) "Who else knows about {this}? What light can they shed?"
+*(,) "Where is {this} used? What does that tell us?"
+*(,) "What is the life-cycle of {this}? What did it come from? What does {this} turn into?"
+*(,) "How can we coroborate our hunches about {this}? What evidence is there?"
+*(,) "How can we quantify what we know about {this}?"
+*(,) "What disagreement is there about {this}? How can we be more objective?"
+*(,) "What more do we need to know about {this}?"
+*(,) "How can we get the new information about {this} that we need?"
+
+
+#_legacy.six hats.red
+
+* "What is your immediate reaction to {this}?"
+* "Do you like {this}?"
+* "What don't you like about {this}?"
+* "What are your beliefs about {this}?"
+* "How will you respond to {this}?"
+
+//
+
+*(,) "What is your immediate reaction to {this}?"
+*(,) "Do you like {this}?"
+*(,) "What don't you like about {this}?"
+*(,) "What are your beliefs about {this}?"
+*(,) "How will you respond to {this}?"
+
+
+#_legacy.six hats.black
+
+* "Will {this} work for us?"
+* "Why can't we do {this} now? What should we in preparation?"
+* "What is wrong with {this}? What might cause {this} to break?"
+* "What are the risks around {this}? Is {this} safe?"
+* "What is {this} in conflict with? Think about ideals, standards and  conventions"
+* "How will {this} impact on other activities?"
+* "What distractions does {this} create?"
+* "Who will prevent, stop or derail {this}?"
+
+//
+
+*(,) "Will {this} work for us?"
+*(,) "Why can't we do {this} now? What should we in preparation?"
+*(,) "What is wrong with {this}? What might cause {this} to break?"
+*(,) "What are the risks around {this}? Is {this} safe?"
+*(,) "What is {this} in conflict with? Think about ideals, standards and  conventions"
+*(,) "How will {this} impact on other activities?"
+*(,) "What distractions does {this} create?"
+*(,) "Who will prevent, stop or derail {this}?"
+
+
+#_legacy.six hats.yellow
+
+* "What are the benefits of {this}?"
+* "Why should {this} be useful?"
+* "How can we apply {this}?" 
+* "How can we make {this} work better?"
+* "What else can we use {this} this for?"
+* "Where else can {this} be used?"
+* "What opportunities does {this} create?"
+* "How can we use {this} as a resource?"
+* "What could replace {this}?"
+
+//
+
+*(,) "What are the benefits of {this}?"
+*(,) "Why should {this} be useful?"
+*(,) "How can we apply {this}?" 
+*(,) "How can we make {this} work better?"
+*(,) "What else can we use {this} this for?"
+*(,) "Where else can {this} be used?"
+*(,) "What opportunities does {this} create?"
+*(,) "How can we use {this} as a resource?"
+*(,) "What could replace {this}?"
+
+
+#_legacy.six hats.green
+
+* "Who has a new perspective on {this}?"
+* "What new ideas does {this} suggest?"
+* "Who has a suggestion about {this}?"
+* "How does {this} help us?"
+* "Can we create something new from {this}?"
+* "What resources can be combined with {this}?"
+* "Are there alternatives for {this}?"
+* "How can {this} be derived or arrived at in a better way?"
+
+//
+
+*(,) "Who has a new perspective on {this}?"
+*(,) "What new ideas does {this} suggest?"
+*(,) "Who has a suggestion about {this}?"
+*(,) "How does {this} help us?"
+*(,) "Can we create something new from {this}?"
+*(,) "What resources can be combined with {this}?"
+*(,) "Are there alternatives for {this}?"
+*(,) "How can {this} be derived or arrived at in a better way?"
+
+
+#_legacy.six hats.blue
+
+
+* "What kind of thinking is required around {this}?"
+* "What are the useful and harmful consequences of {this}?"
+* "What are the main parts of {this}? - how can we break it down?"
+* "What are the inputs to {this}? What are the outputs of {this}?"
+* "What resources does {this} require?"
+* "Where are we with respect to {this}?"
+* "Summarize our view(s) of {this}?"
+* "What is the next step around {this}?"
+* "How can we control {this} better? What governance or process is needed?"
+* "Who owns or is responsible for {this}?"
+* "What factors should be considered when making a decision about {this}?"
+* "How can others be made to understand {this} better?"
+* "How would your worst enemy view {this}?" Do they have a point?
+* "What decision about {this} have we taken?"
+* "What plan or actions does {this} prompt?"
+
+//
+
+*(,) "What kind of thinking is required around {this}?"
+*(,) "What are the useful and harmful consequences of {this}?"
+*(,) "What are the main parts of {this}? - how can we break it down?"
+*(,) "What are the inputs to {this}? What are the outputs of {this}?"
+*(,) "What resources does {this} require?"
+*(,) "Where are we with respect to {this}?"
+*(,) "Summarize our view(s) of {this}?"
+*(,) "What is the next step around {this}?"
+*(,) "How can we control {this} better? What governance or process is needed?"
+*(,) "Who owns or is responsible for {this}?"
+*(,) "What factors should be considered when making a decision about {this}?"
+*(,) "How can others be made to understand {this} better?"
+*(,) "How would your worst enemy view {this}?" Do they have a point?
+*(,) "What decision about {this} have we taken?"
+*(,) "What plan or actions does {this} prompt?"
+
+
+//
+// TOLOPOSOGO inspired by the work of Edward De Bono.
+// Example kindly donated with permission of Jermey Worrell.
+//
+
+#_legacy.TOLOPOSOGO.1TO
+
+focus "Might the real focus be broader or narrower than [this]?" 
+focus "What is it about [this] which really demands some new thinking?" 
+focus "Would strong thinkers consider [this] is the best focus?" 
+
+goal "Might the real focus be broader or narrower than [this]?" 
+goal "What is it about [this] which really demands some new thinking?" 
+goal "Would strong thinkers consider [this] is the best goal?" 
+goal "Could we be more ambitious than [this]?"
+ 
+
+#_legacy.TOLOPOSOGO.2LO
+
+agent "What else do we know about [this]?" 
+agent "Does [this] have any unique features?" 
+potential+useful "How can we get more of [this]?" 
+potential+useful "What else is needed to produce [this]?" 
+potential+harmful "What can counteract [this] so we don't get as much?" 
+*(, harmful) "What intermediaries lie between [from] and [to]?" 
+* "Who else knows about {this}? What light can they shed?" 
+* "Where is {this} used? What does that tell us?" 
+* "What is the life-cycle of {this}? What did it come from? What does it turn into?" 
+questionable(,) "How can we verify {this}?" 
+* "How can we quantify what we know about {this}?" 
+questionable(,) "What disagreement is there about {this}? How can we be more objective?" 
+
+
+#_legacy.TOLOPOSOGO.3PO
+
+agent "How could we re-state [this]?" 
+agent "What synonyms are there for [this]?" 
+harmful "What's the very worst form [this] could take?" 
+useful "What would be a perfect extreme of [this]?" 
+agent "What analogies are there to [this] in related worlds?" 
+agent "What are the fixed features of [this]?" 
+harmful "Who might think [this] is actually beneficial?" 
+produces(&a=agent, useful) "What other benefits could [&a] bring?" 
+agent "How would my thnking heros handle [this]?" 
+harmful "Counteract [this] with a magic agent?" 
+useful "Create or boost [this] with a magic agent"
+
+#_legacy.TOLOPOSOGO.4SO
+
+produces(, harmful) "What could change about [from] to reduce [to]?" 
+produces+insufficient(, useful+goal) "Could we add more [from], or a different sort of [from]?" 
+produces(&a=*, &b=useful) produces(&a, &c=harmful) "Could we change [&a] to get [&b] without [&c]?" 
+action "What else might happen if we [this]?" 
+useful "Who might seek to oppose [this], and why?" 
+goal "Will [this] meet legal and compliance constraints? If not, how could we adapt it?"
+

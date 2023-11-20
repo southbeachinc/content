@@ -1,0 +1,371 @@
+// A MyCreativity ruleset library for Southbeach Modeller v4
+// https://www.southbeachinc.com
+// support@southbeachinc.com
+
+// *************************************************************************************************
+// MyCreativity Content For Southbeach Modeller © 2005-2023 by Howard Smith and Mark Burnett
+// is licensed under Attribution-ShareAlike 4.0 International CC BY-SA 4.0. To view a copy of 
+// this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+//
+// This license requires that reusers give credit to the creator. It allows reusers to distribute, 
+// remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
+// If others remix, adapt, or build upon the material, they must license the modified material under 
+// identical terms.
+// *************************************************************************************************
+
+// _examples.txt is a set of example MyCreativity rules for Southbeach Modeller.
+// The rulesets were originally delivered in v3 of the software. 
+// They are provided in v4 for legacy support. 
+
+// The example rules are named in the '#_legacy' category so that
+// they do not clash with the names of rulesets delivered in v4.
+
+// HELP
+// Read the MyCreativity manual in the southbeach documents folder
+// Or visit http://www.southbeachinc.com/help/index.html 
+// Or write to support@southbeachinc.com
+
+// -------------------------------------------------------------------------------
+
+//
+// Examples of MyCreativity rule sets
+// 
+
+//
+// There has to be a 'hello world'
+//
+
+#_legacy.hello world
+* "{this} says hello"
+*(,) "{from} and {to} say hello"
+
+
+//
+// About as simple as it gets
+//
+
+#_legacy.improve
+useful "How can we increase {this}?"
+harmful "How can we remove or decrease {this}?"
+useful(,) "How can we increase {this}?"
+harmful(,) "How can we remove or decrease {this}?"
+
+//
+// More ideas
+//
+
+#_legacy.improve.more ideas
+
+//agents
+useful "Find a way to increase the useful function of {this}"
+useful "Find a way to isolate {this} from harm"
+useful "Prevent {this} from producing harm"
+useful "Find a replacement for {this} which provides more useful function and less harmful function"
+harmful "Find a way to eliminate or reduce the harmful function of {this}"
+harmful "Find a way to isolate {this} from useful functions"
+harmful "Prevent {this} from producing harm"
+harmful "If {this} provides useful function, find a replacement which provides the same or more"
+
+//effects
+useful(,) "Find a way to increase the useful function of {this}"
+useful(,) "Find a way to isolate {this} from harm"
+useful(,) "Prevent {this} from producing harm"
+useful(,) "Find a replacement for {this} which provides more useful function and less harmful function"
+harmful(,) "Find a way to eliminate or reduce the harmful function of {this}"
+harmful(,) "Find a way to isolate {this} from useful functions"
+harmful(,) "Prevent {this} from producing harm"
+harmful(,) "If {this} provides useful function, find a replacement which provides the same or more"
+increases(, harmful) "Find a way to prevent {from} {effecting} {to}"
+increases(, harmful) "Isolate {to} from {from} so that the harmful {effection} does not occur"
+decreases(, useful)  "Find a way to prevent {from} {effecting} {to}"
+increases(, harmful) "Isolate {to} from {from} so that the harmful {effection} does not occur"
+
+//contradictions
+increases(&a=*, &b=useful) increases(&a, &c=harmful) "Find a way to obtain the benefit of {&b} without the need for {&a}"
+increases(&a=*, &b=useful) increases(&a, &c=harmful) "Find an alternative to {&a} that does not produce {&c} but still produces {&b}"
+increases(&a=*, &b=useful) increases(&a, &c=harmful) "Find an alternative to {&b} so that {&a} is no longer needed"
+increases(&a=*, &b=useful) increases(&a, &c=harmful) "Find a way to reduce or eliminate {&c} if there is no alternative to {&a}"
+increases(&a=*, &b=useful) increases(&a, &c=harmful) "Find a way to reduce the ability of {&a} to produce {&c}"
+increases(&a=*, &b=useful) increases(&a, &c=harmful) "Find ways to cope with {&c} if all else fails"
+
+
+//
+// An improvement question set used in everyday consulting.
+// Example kindly donated with permission by Mark Burnett.
+//
+
+#_legacy.consulting.elaborate
+produces(*, useful) "What (additional) resources does the {source} need in order to produce the {destination}?"
+produces(*,useful) "What qualities should the {source} exhibit in producing the {destination}?"
+consumes(&a=*,&r=@resource) produces(&a,&o=useful) "Where is the resource of {&r} used by the {&a} to produce the {&o} obtained from?"
+specifies(@quality,*) "What is the {source} quality related to?"
+produces(,useful) "What is the {destination} used for?"
+produces(&a=useful,&o=useful) produces(&o,&r=useful) "What other than the {&a} and {&o} is necessary to produce the {&r}?"
+
+#_legacy.consulting.increase useful
+increases(useful,useful) "Intensify or get more of the {source} so you can have more of the {destination}."
+increases(*,useful) "How can you get more of {destination} from {source}?"
+increases(*,useful) "How can you increase the ability of {source} to create {destination}?"
+increases(*,useful) "How can you intensify the {destination} without relying on the {source}?"
+increases(harmful,useful) "Try and work out what part of the {source} is producing the {destination} and minimise the unnecessary parts that are producing the harm"
+decreases(*,useful) "Prevent the {source} from impacting the {destination}."
+decreases(*,useful) "Isolate the part of the {source} that is impacting the {destination} and remove it."
+decreases(harmful,useful) "Convert the {source} into something useful before it has a chance to impact the {destination}."
+decreases(*,useful) "Protect the {destination} from the {source}."
+increases(useful,useful+potential) "How can you ensure that the {destination} will be an outcome of the {source}?"
+increases(&a=*,&c=useful+potential) increases(&b=*,&a) "How can you create the {&c} without the {&b}?"
+increases(&a=*,&c=useful+!potential) increases(&b=*,&a) "How can you intensify the {&c} without the {&b}?"
+useful+goal "What else is needed to achieve {this}? What are the pre-requisites or necessary pre-steps?"
+harmful "What's the root cause of {this}? How can we avoid that?"
+useful+potential "How can we realise the {this} more quickly?"
+harmful+potential "How can we avoid, prevent, or delay the {this}?"
+replaces(&a=*,&b=*) increases(&b,&c=useful) "Ensure the {&a} also leads to {&c} before the {&b} is replaced."
+increases(&a=*,&b=useful) "Find ways for {&b} to make more use of {&a}."
+
+#_legacy.consulting.reduce harmful
+increases(*,harmful) "How can you prevent the {source} from producing the {destination}."
+increases(*,harmful) "Put measures in place to deal with the {destination}."
+increases(*,harmful) "Isolate the part of the {source} that is producing the {destination} and remove it."
+increases(useful,harmful) "How else could the {source} be accomplished that would not result in the {destination}?"
+increases(useful,harmful) "What else could give the benefits of the {source} that would not result in the {destination}?"
+decreases+potential(&a=*,&b=useful) "How can the proportion of the {&a} impacting the {&b} be reduced?"
+
+#_legacy.consulting.simplify
+increases(&a=*,&b=useful) increases(&a,&c=harmful) "How can you get the {&a} to intensify the {&b} without causing the {&c}?"
+
+
+//
+// Workshop aide
+//
+
+#_legacy.ask.workshop
+* "How important is {this}?"
+* "What do we need to capture about {this}?"
+* "What was just said about {this}?"
+*(,) "How important is {this}?"
+*(,) "What do we need to capture about {this}?"
+*(,) "What was just said about {this}?"
+
+
+//
+// Root cause analysis
+//
+
+#_legacy.root cause
+
+* "What else produces {this}?"
+* "What other than {outputs} does {this} produce?"
+*(,) "What lies on the line? What does {from} produce that allows it to {effect} {to}"
+*(,) "Other than {from}, is there another factor in the process of {this}?"
+*(,) "Does the action of {this} produce anything else?"
+*(,) "Are there any other effects of {this}?"
+
+
+#_legacy.root cause.5whys
+
+* "Why {this}?"
+*(,) "Why {this}?"
+focus "Why specifically {this}?"
+
+
+#_legacy.root cause.5whys+
+
+* "Why {this}?"
+* "How could we verify that {this} is a root cause?"
+*(,) "How sure are we that the cause of {to} is {from}?"
+*(,) "Is {from} necessary for {to} to occur?"
+*(,) "What else other than {from} could cause {to}?"
+*(,) "Is {from} sufficient for {to} to occur?"
+*(,) "Ask yourself: If {from} had not been, could {to} have happened?"
+* "Will {this} always happen if all attributed causes happen: {inputs}?"
+
+
+#_legacy.root cause.5x5whys
+
+//matching on agents
+* "What proof do I have that this cause exists? (Is {this} concrete? Is {this} measurable?)"
+* "What proof do I have that the cause: {this} could lead to the stated effect? (Am I merely asserting causation?)"
+* "What proof do I have that this cause actually contributed to the system problem I am looking at? (Even given that it exists and could lead to this problem, how do I know {this} wasn't actually something else?)"
+* "Is anything else needed, along with this cause, for the stated effect to occur? (Is {this} self-sufficient? Is something needed to help {this} along?)"
+* "Can anything else, besides this cause, lead to the stated effect? (Are there alternative explanations to {this} that fit better? What other risks are there?)"
+
+//matching on effects
+*(,) "What proof do I have that this effect/process exists? (Is {this} concrete? Is the effect measurable?)"
+*(,) "What proof do I have that this effect: {this} could lead to the stated outcome? (Am I merely asserting causation?)"
+*(,) "What proof do I have that this effect actually contributed to the system problem I am looking at? (Even given that it exists and could lead to this problem, how do I know {this} wasn't actually something else?)"
+*(,) "Is anything else needed, along with this effect, for the stated effect to occur? (Is {this} self-sufficient? Is something needed to help {this} along?)"
+*(,) "Can anything else, besides this effect, lead to the stated effect? (Are there alternative explanations to {this} that fit better? What other risks are there?)"
+
+
+#_legacy.ask.requirements
+* "What requirements come to mind when considering {this}?"
+* "What assumptions are we making when we say {this}?"
+produces(,) "How will we convert {from} into {to}?"
+produces(,) "Is {to} sufficient to achieve {from}?"
+* "Do we now have all of the information we need? To learn more about {this} who do we need to speak to next?"
+
+
+#_legacy.ask.before and after
+* "What comes before {this}?"
+* "What comes after {this}?"
+*(,) "What comes before {this}?"
+*(,) "What comes after {this}?"
+
+
+#_legacy.ask.see around
+* "See ahead - what's coming next after {this}?"
+* "See behind - what came before {this} and in the past?"
+* "See above - take a helicopter view of {this}?"
+* "See below - does {this} embody a diamond in the rough?"
+* "See beside - remove your blinkers on {this}"
+* "See beyond - question what's beyond the horizon of {this}"
+* "See through - look for fresh essense and meaning in {this}"
+
+#_legacy.ask.eureka7
+
+"Is {this} attractive?"
+"What customer needs does {this} meet?"
+"What's the value proposition inherent to {this}?"
+"How can we lock out competitors also offering {this}?"
+"Is {this} do-able?"
+"Can {this} be profitable?"
+"Is {this} strategic?"
+
+
+#_legacy.ask.use of
+useful "Who uses {this}? Who could use {this}?"
+useful "What is {this} used for? Could {this} be used for other purposes?"
+useful "Why is {this} used? Could {this} be used for other reasons?"
+useful "Where is {this} used? Where could {this} be used?"
+useful "When is {this} used? When could {this} be used?"
+useful "How is {this} used? Could {this} be used in other ways?"
+
+harmful "Who avoids {this}? Who should avoid {this}?"
+harmful "What harm results from {this}? Could {this} harm in other ways?"
+harmful "Why is {this} harmful? Could {this} be turned to useful purpose?"
+harmful "Where does the harm from {this} appear? Where could the harm from {this} be felt?"
+harmful "When does {this} create harm? When could {this} create harm?"
+harmful "How does {this} produce harm? Could {this} produce harm in other ways?"
+
+neutral "Who should use {this}? Who may use {this}?"
+neutral "What should {this} be used for? What could {this} be used for?"
+neutral "Why should {this} be used? What reasons would drive use of {this}?"
+neutral "Where should {this} be used? Where could {this} be used?"
+neutral "When should {this} be used? When could {this} be used?"
+neutral "How should {this} be used? Could {this} be used in other ways?" 
+
+#_legacy.SCAMPER
+
+// "S = Substitute"
+// "C = Combine"
+// "A = Adapt"
+// "M = Magnify"
+// "P = Put to Other Uses"
+// "E = Eliminate/Minify"
+// "R = Rearrange/Reverse"
+
+// core questions
+
+* "What elements of {this} can I substitute?"
+* "How can I combine {this} with other products or services?"
+* "What can I adapt or copy from someone else's {this}?"
+* "What can I magnify or emphasize in {this}?"
+* "What other uses can I find for {this}?"
+* "What can I eliminate, reduce or simplify in {this}?"
+* "How can I change, reorder or reverse {this}?"
+
+#_legacy.SCAMPER.substitute
+
+// Example stimulus questions for Substitute
+
+* "Can I replace or change any parts in {this}"?
+* "Can I replace someone involved in {this}"?
+* "Can the rules be changed around {this}"?
+* "Can I use other ingredients or materials to make {this}"?
+* "Can I use other processes or procedures with {this}"?
+* "Can I change the shape of {this}"?
+* "Can I change the color, roughness, sound or smell of {this}"?
+* "What if I change the name of {this}"?
+* "Can I substitute one part of {this} for another?"
+* "Can I use {this} in a different place?"
+* "Can I change my feelings or attitude towards {this}"?
+
+#_legacy.SCAMPER.combine
+
+// Example stimulus questions for Combine
+
+* "What ideas or parts can be combined in {this}?"
+* "Can I combine or recombine its parts’ purposes?"
+* "Can I combine or merge {this} with other objects?"
+* "What can be combined to maximize the number of uses of {this}?"
+* "What materials could be combined in {this}?"
+* "Can I combine different talents to improve {this}?"
+
+#_legacy.SCAMPER.adapt
+
+// Example stimulus questions for Adapt
+
+* "What else is like {this}?"
+* "Is there something similar to {this}, but in a different context?"
+* "Does the past offer any lessons with similar ideas to {this}?"
+* "What other ideas does {this} suggest?"
+* "What could I copy, borrow or steal from {this} or elsewhere?"
+* "Whom could I emulate?"
+* "What ideas could I incorporate into {this}?"
+* "What processes of {this} can be adapted?"
+* "What different contexts can I put my new concept for {this} in?"
+* "What ideas outside my field can I incorporate in {this}?"
+
+#_legacy.SCAMPER.magnify
+
+// Example stimulus questions for Magnify
+
+* "What about {this} can be magnified or made larger?"
+* "What can be exaggerated or overstated in {this}?"
+* "What about {this} can be made higher, bigger or stronger?"
+* "Can I increase the frequency of {this}?"
+* "What can be duplicated? Can I make multiple copies of {this}?"
+* "Can I add extra features to {this} or somehow add extra value?"
+
+#_legacy.SCAMPER.put to other use
+
+// Example stimulus questions for Put to other use
+
+* "What else can {this} be used for?"
+* "Can {this} be used by people other than those it was originally intended for?"
+* "How would a child use {this}? An older person?"
+* "How would people with different disabilities use {this} ?"
+* "Are there new ways to use {this} in its current shape or form?"
+* "Are there other possible uses if {this} is modified?"
+* "If I knew nothing about it, would I figure out the purpose of {this}?"
+* "Can I use {this} in other markets or industries?"
+
+#_legacy.SCAMPER.eliminate
+
+// Example stimulus questions for Elimination/Minify
+
+* "How can I simplify {this} ?"
+* "What parts of {this} can be removed without altering its function?"
+* "What’s non-essential or unnecessary in {this}?"
+* "Can the rules around {this} be eliminated?"
+* "What if I made {this} smaller?"
+* "What feature of {this} can I understate or omit?"
+* "Should I split {this} into different parts?"
+* "Can I compact or make {this} smaller?"
+
+#_legacy.SCAMPER.rearrange
+
+// Example stimulus questions for Rearrage/Reverse
+
+* "What other arrangement around {this} might be better?"
+* "Can I interchange components of {this}?"
+* "Are there other patterns, layouts or sequences I can use?"
+* "Can I transpose cause and effect in {this}?"
+* "Can I change pace or change the schedule of delivery of {this}?"
+* "Can I transpose positives and negatives of {this}?"
+* "Should I turn {this} around? Up instead of down? Down instead of up?"
+* "What if I consider {this} backwards?"
+* "What if I try doing the exact opposite of what I originally intended?"
+
+
+
