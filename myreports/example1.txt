@@ -1,0 +1,54 @@
+// An example MyReports template for Southbeach Modeller v4
+// Adapt the report freely for your own use. 
+// 
+// https://www.southbeachinc.com
+// support@southbeachinc.com
+//
+// *************************************************************************************************
+// MyCreativity Content For Southbeach Modeller © 2005-2023 by Howard Smith and Mark Burnett
+// is licensed under Attribution-ShareAlike 4.0 International CC BY-SA 4.0. To view a copy of 
+// this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+//
+// This license requires that reusers give credit to the creator. It allows reusers to distribute, 
+// remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
+// If others remix, adapt, or build upon the material, they must license the modified material under 
+// identical terms.
+// *************************************************************************************************
+//
+// HELP
+// Read the MyCreativity manual in the southbeach documents folder
+// Or visit http://www.southbeachinc.com/help/index.html 
+// Or write to support@southbeachinc.com 
+This is my report on ["{model.name}"] from perspective  ["{model.perspective}"]
+
+Our goals are {goal}. The risks are {risk}. Choices we need to make include:
+[choice ; C] 
+
+Each raises issues:
+[produces(choice, issue) "{this}" ; I]
+
+There are several harmful effects in this situation which we need to mitigate:
+[harmful(,) "{this}" ; H]
+
+The main areas of improvement lie in:
+[increases(*, harmful) "Finding a way to prevent {from} increasing harmful {to}." ; I]
+[decreases(*, useful) "Finding a way to prevent {from} decreasing harmful {to}." ; I]
+
+Actions we have already decided are:
+[counteracts(action+!potential, harmful) "Intervention {from} will help to mitigate {to}"; A]
+
+Potential new actions are:
+[action+potential "Can intervention {this} help us?"; P]
+
+It would be helpful for our next session to use Six Thinking Hats, focused on the harmful effects in the situation. We believe that a combination of black hat thinking and yellow hat thinking would be appropriate. 
+
+For the priority areas, questions we could ask include:
+
+Judgement questions:
+[harmful(,@priority) #lateral thinking.6hats.black: judgement ; Q]
+
+Benefits questions:
+[harmful(,@priority) #lateral thinking.6hats.yellow: benefits ; Q ]
+
+Finally, we have noted the following about the situation:
+["{model.notes}"] 

@@ -1,0 +1,35 @@
+// A simple MyReport that lists 'problem statements' in a Southbeach Model.
+// https://www.southbeachinc.com
+// support@southbeachinc.com
+//
+// A 'problem statement', for the purpose of this example report, is defined as a 
+// harmful effect or contradiction.
+//
+// Note, The output is independent of which effects are used in the model, only that they
+// are 'harmful' (red arrow). This is automatically derived by Southbeach Modeller based on 
+// the 'type' of the effect and the 'perspective' of the involved agents. 
+// 
+// For example, 'useful A counteracting harmful B' is considered 'useful'
+//
+// *************************************************************************************************
+// MyCreativity Content For Southbeach Modeller © 2005-2023 by Howard Smith and Mark Burnett
+// is licensed under Attribution-ShareAlike 4.0 International CC BY-SA 4.0. To view a copy of 
+// this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+//
+// This license requires that reusers give credit to the creator. It allows reusers to distribute, 
+// remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
+// If others remix, adapt, or build upon the material, they must license the modified material under 
+// identical terms.
+// *************************************************************************************************
+//
+// HELP
+// Read the MyCreativity manual in the southbeach documents folder
+// Or visit http://www.southbeachinc.com/help/index.html 
+// Or write to support@southbeachinc.com Direct effects:
+Problem statements in ["{model.name}"]:
+
+Effects:
+[harmful(,) "{this}" ; H]
+
+Contradictions:
+[useful(&a=*,&b=*) harmful(&a,&c=*) "{&a} is a contradiction" ; C]
