@@ -3,6 +3,8 @@
 // This template lists indirect causes to the 10th level. Add more below if required.
 // If the model is graph and not a tree, indirect causes will cycle round causal loops.
 //
+// DO NOT MODIFY THIS FILE AS IT MAY BE UPDATED IN A FUTURE RELEASE
+//
 // https://www.southbeachinc.com
 // support@southbeachinc.com
 //
