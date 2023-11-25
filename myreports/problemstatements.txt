@@ -5,6 +5,8 @@
 // A 'problem statement', for the purpose of this example report, is defined as a 
 // harmful effect or contradiction.
 //
+// DO NOT MODIFY THIS FILE AS IT MAY BE UPDATED IN A FUTURE RELEASE
+//
 // Note, The output is independent of which effects are used in the model, only that they
 // are 'harmful' (red arrow). This is automatically derived by Southbeach Modeller based on 
 // the 'type' of the effect and the 'perspective' of the involved agents. 
