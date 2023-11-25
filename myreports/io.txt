@@ -1,6 +1,8 @@
 // A simple MyReport on contributory factors in a Southbeach Model.
 // Contributory factors are listed as either inputs (I) or outputs (O).
 //
+// DO NOT MODIFY THIS FILE AS IT MAY BE UPDATED IN A FUTURE RELEASE
+//
 // https://www.southbeachinc.com
 // support@southbeachinc.com
 //
