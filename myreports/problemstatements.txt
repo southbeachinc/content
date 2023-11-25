@@ -30,7 +30,7 @@
 // Or write to support@southbeachinc.com Direct effects:
 Problem statements in ["{model.name}"]:
 
-Effects:
+Harmful effects:
 [harmful(,) "{this}" ; H]
 
 Contradictions:
