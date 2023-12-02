@@ -6,12 +6,9 @@ Beforehand cushioning
 Blessing in disguise
 Calm atmosphere
 Cheap disposal
-Cheap short lived
 Cheap short-living objects
 Color changes
-Colour change
 Combination
-Composite
 Composite materials
 Consolidation
 Continuity of useful action
@@ -28,17 +25,16 @@ Dynamics
 Dynamization
 Enriched atmosphere
 Equipotentialily
-Equipotentiality
+Excessive action
 Excessive action
 Extraction
 Feedback
 Flexible shells
-Flexible shells and thin films
 Fluidity
 Holes
-Homogenity
 Homogenuity
 Hurrying
+Hydralics
 Hydralics
 Inert atmosphere
 Inert environment
@@ -54,11 +50,9 @@ Nested doll
 Paradigm shift
 Parameter changes
 Partial action
-Partial or excessive actions
 Periodic action
 Phase transitions
 Pneumatics
-Pneumatics and hydralics
 Porous materials
 Preliminary action
 Preliminary anti-action
@@ -77,7 +71,6 @@ Resonance
 Rushing through
 Segmentation
 Self service
-Self-service
 Silver lining
 Skipping
 Slightly less
@@ -88,6 +81,7 @@ Substitution
 Taking out
 The other way around
 Thermal expansion
+Thin films
 Thin films
 Transition
 Universality
