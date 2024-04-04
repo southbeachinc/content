@@ -1,0 +1,51 @@
+Sustainability Evaluation Prompt: Assessing Long-term Viability and Environmental Impact
+
+Objective: The objective is to evaluate the sustainability of a proposed solution, considering its long-term viability, environmental impact, and potential to contribute to sustainable development goals. This evaluation aims to ensure that the solution is not only effective in the short term but also responsible, environmentally sound, and beneficial for future generations.
+
+Prompt Details:
+
+Description of the Solution:
+
+Provide a comprehensive description of the proposed solution, including its purpose, how it works, and the specific needs it addresses.
+
+Environmental Impact Assessment:
+
+Conduct an in-depth assessment of the environmental impacts of the solution, covering aspects such as carbon footprint, resource consumption (water, energy, materials), waste generation, and potential pollution. Consider both direct and indirect impacts.
+
+Life Cycle Analysis:
+
+Perform a life cycle analysis (LCA) of the solution to understand its environmental impact throughout its entire life cycle, from raw material extraction through manufacturing, use, and disposal or recycling.
+
+Sustainability Criteria Evaluation:
+
+Evaluate the solution against established sustainability criteria, such as energy efficiency, renewable resource use, recyclability, and reduction of harmful emissions. How does the solution measure up against these criteria?
+
+Social and Economic Impacts:
+
+Assess the social and economic impacts of the solution, including its potential to support social equity, economic development, and contribute to the well-being of communities. Are there any negative impacts, and how can they be mitigated?
+
+Alignment with Sustainable Development Goals (SDGs):
+
+Analyze how the solution aligns with and contributes to the United Nations Sustainable Development Goals (SDGs). Identify specific goals and targets that the solution supports.
+
+Resilience to Future Challenges:
+
+Evaluate the solution's resilience to future environmental, economic, and social challenges, such as climate change, resource scarcity, and shifting regulatory landscapes. How adaptable and resilient is the solution to these potential future scenarios?
+
+Stakeholder Feedback:
+
+Gather feedback from a diverse range of stakeholders, including environmental groups, community members, industry experts, and potential users, to incorporate multiple perspectives on the solution's sustainability.
+
+Sustainability Improvement Strategies:
+
+Based on the evaluation, identify strategies to improve the sustainability of the solution. This may include design modifications, alternative materials or processes, and measures to enhance social and economic benefits.
+
+Implementation and Monitoring Plan:
+
+Develop a plan for implementing the solution with a focus on sustainability, including specific actions, timelines, and responsibilities. Outline a monitoring strategy to track the solution's sustainability performance and impact over time.
+
+Expected Outcome: The evaluation should result in a detailed sustainability report that provides a holistic assessment of the solution's environmental, social, and economic impacts. The report should highlight areas of strength and areas needing improvement, offering concrete strategies for enhancing the solution's overall sustainability. Additionally, it should include an actionable plan for implementation and ongoing monitoring of sustainability performance.
+
+---
+
+This prompt is designed to guide a thorough sustainability evaluation, ensuring that solutions are not only effective in addressing immediate needs but also responsible and beneficial from an environmental, social, and economic perspective. By considering the broader impacts and aligning with sustainability goals, the aim is to promote solutions that contribute to a more sustainable future.

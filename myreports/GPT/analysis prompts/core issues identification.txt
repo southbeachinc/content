@@ -1,0 +1,42 @@
+Identification Analysis Prompt: Uncovering Core Issues and Root Causes
+
+Objective: The primary aim is to delve deep into the situation or process to uncover and precisely define the core issues, identify what's missing, and pinpoint the root causes of the problem. This exploration should set a solid foundation for targeted solutions.
+
+Prompt Details:
+
+Comprehensive Description of the Situation or Process:
+
+Provide a detailed description of the current situation or process, including all relevant components and their interactions. What symptoms of the problem are observable? What impacts are these symptoms having?
+
+Symptom Analysis:
+
+Catalogue and analyze the symptoms of the problem. How do these symptoms manifest? Are there patterns or conditions under which they become more pronounced?
+Stakeholder Perspectives:
+
+Collect and synthesize perspectives from all stakeholders involved in or affected by the situation or process. What discrepancies exist in their perceptions of the problem? How do their insights contribute to understanding the problem's complexity?
+
+Historical Context:
+
+Explore the history of the situation or process. When did the problem first emerge? What changes or decisions might have contributed to its development?
+Gap Identification:
+
+Identify what's missing in the current situation or process that could potentially alleviate the problem. Is there a lack of resources, information, collaboration, or technology?
+Root Cause Analysis Techniques:
+
+Employ root cause analysis techniques such as the "5 Whys", fishbone diagrams, or failure mode and effects analysis (FMEA) to drill down to the underlying causes of the problem. What fundamental issues are driving the observed symptoms?
+Contradiction and Conflict Exploration:
+
+Are there contradictions or conflicts within the situation or process that exacerbate the problem? How do these elements interplay to hinder solutions?
+Environmental and External Factors:
+
+Consider the influence of environmental and external factors on the situation or process. How do these factors contribute to the problem, and to what extent are they controllable?
+
+Prioritization of Core Issues:
+
+Based on the analysis, prioritize the core issues in terms of their impact on the situation and feasibility of addressing them. Which issues, if resolved, would have the most significant positive effect?
+
+Expected Outcome: The analysis should result in a detailed report that clearly identifies and defines the core issues, articulates what's missing, and pinpoints the root causes of the problem. This report should not only highlight the primary drivers of the problem but also rank them in order of priority, providing a clear direction for subsequent solution-finding efforts.
+
+---
+
+This prompt is designed to guide a deep and structured analysis, encouraging a thorough exploration of the underlying issues behind a problem. By focusing on identification from multiple angles and employing systematic techniques, the aim is to uncover the true roots of the problem, setting the stage for effective and targeted solutions.

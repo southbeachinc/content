@@ -1,0 +1,47 @@
+<h1 id="prompting-strategies">Prompting strategies</h1>
+<h2 id="write-clear-instructions">Write clear instructions</h2>
+<p>These models cannot read your mind. 
+If outputs are too long, ask for brief replies.
+If outputs are too simple, ask for expert-level writing.
+If you dislike the format, demonstrate the format you&#39;d like to see.
+The less the model has to guess at what you want, the more likely it is you will get it.</p>
+<ul>
+<li>Include details in your prompt to get more relevant answers</li>
+<li>Ask the model to adopt a persona</li>
+<li>Use delimiters to clearly indicate distinct parts of the input</li>
+<li>Provide examples</li>
+<li>Specify the desired length of the output</li>
+</ul>
+<h2 id="provide-reference-text">Provide reference text</h2>
+<p>Language models can confidently invent fake answers, especially when asked about esoteric topics or for citations and URLs. In the same way that a sheet of notes can help a student do better on a test, providing reference text to these models can help in answering with fewer fabrications.</p>
+<ul>
+<li>Instruct the model to answer using a reference text</li>
+<li>Instruct the model to answer with citations from a reference text</li>
+</ul>
+<h2 id="split-complex-tasks">Split complex tasks</h2>
+<p>Just as it is good practice in software engineering to decompose a complex system into a set of modular components, the same is true of tasks submitted to a language model. Complex tasks tend to have higher error rates than simpler tasks. Furthermore, complex tasks can often be re-defined as a workflow of simpler tasks in which the outputs of earlier tasks are used to construct inputs to later tasks.</p>
+<ul>
+<li>Use intent classifications to identify the most relevant instructions for a user query</li>
+<li>For dialogue applications that require very long conversations, summarize or filter previous dialogue</li>
+<li>Summarize long documents piecewise and construct a full summary recursively</li>
+</ul>
+<h2 id="give-the-model-time-to-think-">Give the model time to &#39;think&#39;</h2>
+<p>If asked to multiply 17 by 28, you might not know it instantly, but can still work it out over time. Similarly, models make more reasoning errors when trying to answer right away, rather than taking time to work out an answer. Asking for a &#39;chain of thought&#39; before an answer can help the model reason its way toward correct answer more reliably.</p>
+<ul>
+<li>Instruct the model to work out its own solution before rushing to a conclusion</li>
+<li>Use inner monologue or a sequence of queries to hide the model&#39;s reasoning process</li>
+<li>Ask the model if it missed anything on previous passes</li>
+</ul>
+<h2 id="use-external-tools">Use external tools</h2>
+<p>Compensate for the weaknesses of the model by feeding it the outputs of other tools. For example, a text retrieval systems can tell the model about relevant documents. A visual modelling tool can provide detailed cause-effect relationships that might not be explicit in a natural language statement. A code execution interpreter can help the model do math and run code. If a task can be done more reliably or efficiently by a tool rather than by a language model, offload it to get the best of both. </p>
+<ul>
+<li>Use embeddings-based search to implement efficient knowledge retrieval</li>
+<li>Use diverse visual representations and notations to clarify complex situations and problems that cannot easily be expressed in natural language</li>
+<li>Use code execution to perform more accurate calculations or call external APIs</li>
+<li>Give the model access to specific functions</li>
+</ul>
+<h2 id="test-changes-systematically">Test changes systematically</h2>
+<p>Improving performance is easier if you can measure it. In some cases a modification to a prompt will achieve better performance on a few isolated examples but lead to worse overall performance on a more comprehensive set of examples. Therefore to be sure that a change is net positive to performance it may be necessary to define a comprehensive test suite (also known as an &#39;eval&#39;).</p>
+<ul>
+<li>Evaluate model outputs with reference to gold-standard answers</li>
+</ul>

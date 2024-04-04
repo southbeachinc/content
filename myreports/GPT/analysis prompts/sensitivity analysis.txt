@@ -1,0 +1,51 @@
+Sensitivity Analysis Prompt: Identifying Influential Variables within the Cause-Effect Model
+
+Objective: The aim is to conduct a sensitivity analysis on a specified cause-effect model, to determine how changes in different factors or assumptions impact the outcomes. This analysis seeks to identify the variables that have the most significant influence on the system's behavior, enabling focused attention on these key drivers for more effective management and decision-making.
+
+Prompt Details:
+
+Detailed Description of the Cause-Effect Model:
+
+Provide a comprehensive description of the cause-effect model under consideration, including its key components, variables, and the relationships that define how inputs are converted into outcomes.
+
+Identification of Variables and Assumptions:
+
+List all variables and assumptions within the model. This includes inputs, process factors, external influences, and any assumptions made about relationships or conditions.
+
+Selection of Variables for Sensitivity Analysis:
+
+Select a subset of variables and assumptions for sensitivity analysis. Criteria for selection might include variables with uncertain values, those based on assumptions rather than data, or those believed to be critical to outcomes.
+
+Definition of Range for Variable Alteration:
+
+Define a range of possible values for each selected variable or assumption. This range should reflect realistic variability or uncertainty levels.
+
+Conducting the Sensitivity Analysis:
+
+Systematically vary each selected variable or assumption within its defined range, one at a time, while holding all other factors constant. Measure the impact of these variations on the model's outcomes.
+
+Analysis of Results:
+
+Analyze the results of the sensitivity analysis to determine which variables or assumptions have the most significant impact on outcomes. Identify patterns or insights into how changes in specific variables influence the system.
+
+Identification of High-Impact Variables:
+
+Identify the variables or assumptions that are most sensitive—those whose variation leads to significant changes in outcomes. These are the factors with the greatest influence on the system's behavior.
+
+Implications for Decision-Making:
+
+Discuss the implications of the sensitivity analysis findings for decision-making and management of the system. How should strategies or priorities be adjusted based on these insights?
+
+Recommendations for Further Analysis:
+
+Recommend any further analysis or data collection that could improve understanding of the high-impact variables or reduce uncertainty in the model.
+
+Development of Strategies to Manage Key Variables:
+
+Propose strategies for managing or mitigating the risks associated with the high-impact variables identified. This may include diversification, contingency planning, or targeted interventions.
+
+Expected Outcome: The sensitivity analysis should result in a detailed report that outlines which variables or assumptions within the cause-effect model have the most significant influence on outcomes. The report should provide a clear ranking or prioritization of these variables based on their impact, along with recommendations for decision-making, further analysis, and strategies to manage or leverage these key variables for improved outcomes.
+
+---
+
+This prompt is designed to guide a thorough sensitivity analysis, emphasizing the identification and management of key variables within a cause-effect model. By understanding which factors have the most substantial impact on outcomes, the aim is to enable more informed and effective decision-making, prioritizing efforts where they can achieve the greatest influence.

@@ -1,0 +1,51 @@
+Impact Analysis Prompt: Assessing the Consequences of Proposed Changes
+
+Objective: The objective is to conduct an impact analysis for proposed changes or solutions, using the cause-effect framework to identify and evaluate both the intended and unintended impacts. This analysis seeks to understand the full spectrum of effects these changes could have on the system, stakeholders, and environment, ensuring informed decision-making.
+
+Prompt Details:
+
+Description of Proposed Changes or Solutions:
+
+Provide a detailed description of the proposed changes or solutions, including their objectives, mechanisms of action, and the context in which they are intended to be implemented.
+
+Development of Cause-Effect Framework:
+
+Construct a cause-effect framework for the proposed changes, mapping out how they are expected to interact with the system and produce outcomes. Include direct effects, secondary effects, and potential feedback loops.
+
+Identification of Intended Impacts:
+
+Identify and describe the intended impacts of the proposed changes, focusing on the positive outcomes they are designed to achieve within the system or process.
+
+Exploration of Unintended Impacts:
+
+Explore potential unintended impacts, considering both negative and positive consequences that were not part of the initial objectives. How might the proposed changes affect other parts of the system, stakeholders, or the environment in unforeseen ways?
+
+Stakeholder Impact Analysis:
+
+Assess how different stakeholders will be affected by the proposed changes. Consider both short-term and long-term impacts, as well as direct and indirect effects on various stakeholder groups.
+
+Risk and Opportunity Assessment:
+
+Evaluate the risks associated with the proposed changes, including the likelihood and severity of unintended impacts. Conversely, identify any unforeseen opportunities that the changes might create.
+
+Mitigation and Enhancement Strategies:
+
+Develop strategies to mitigate negative unintended impacts and enhance positive ones. How can the proposed changes be adjusted to minimize risks and maximize benefits?
+
+Scenario Planning for Various Outcomes:
+
+Utilize scenario planning to explore different outcomes based on variations in the implementation of the proposed changes. This can help anticipate a range of potential impacts and prepare for them.
+
+Monitoring and Evaluation Plan:
+
+Outline a plan for monitoring and evaluating the impacts of the proposed changes once implemented. Define metrics for success, indicators for monitoring unintended impacts, and mechanisms for feedback and adjustment.
+
+Communication and Stakeholder Engagement:
+
+Develop a plan for communicating the proposed changes and their potential impacts to relevant stakeholders. Engage stakeholders in the evaluation process to gather insights, concerns, and suggestions.
+
+Expected Outcome: The impact analysis should result in a comprehensive report detailing the intended and unintended impacts of the proposed changes, within a cause-effect framework. The report should assess the effects on the system, stakeholders, and environment, providing a balanced view of risks and opportunities. It should include mitigation and enhancement strategies, a scenario planning summary, and a robust monitoring and evaluation plan, all designed to inform decision-making and ensure the changes lead to positive and sustainable outcomes.
+
+---
+
+This prompt is designed to guide a thorough impact analysis, emphasizing a holistic understanding of the consequences of proposed changes. By carefully considering both intended and unintended impacts, the aim is to support informed, responsible decision-making that accounts for the complexity and interconnectivity of systems.

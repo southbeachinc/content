@@ -1,0 +1,51 @@
+System Thinking Analysis Prompt: Understanding Interactions and Impacts within a System
+
+Objective: The goal is to apply system thinking to analyze a problem, focusing on its position and interactions within a larger system. This analysis seeks to understand the complex web of relationships between different elements of the system, how these relationships influence the problem and potential solutions, and how changes in one part of the system can affect the system as a whole.
+
+Prompt Details:
+
+System Description and Boundary Definition:
+
+Describe the system relevant to the problem, including its purpose, components, and boundaries. What are the limits of the system? Which elements are internal to the system, and which are external but influential?
+
+Identification of Key Elements and Relationships:
+
+Identify the key elements within the system that are directly or indirectly related to the problem. Describe the nature of the relationships between these elements. How do they interact, and what are the feedback loops?
+
+Mapping the System:
+
+Create a visual map or diagram of the system, illustrating the elements and their relationships. Highlight the pathways through which actions, information, or resources flow within the system.
+
+Analysis of System Dynamics:
+
+Analyze the dynamics of the system, focusing on how the elements and their interactions contribute to the problem's existence or persistence. Consider how changes in one part of the system can lead to changes in other parts.
+
+Identification of Leverage Points:
+
+Identify leverage points within the system where interventions could lead to significant, positive changes in the problem or the system as a whole. Why are these points particularly influential?
+
+Scenario Planning and Modelling:
+
+Develop scenarios to explore how different interventions at the identified leverage points could impact the system and the problem. Use modeling tools if available to simulate potential outcomes.
+
+Consideration of Unintended Consequences:
+
+Consider potential unintended consequences of interventions within the system. How might changes designed to solve the problem inadvertently affect other parts of the system?
+
+Development of Holistic Solutions:
+
+Based on the system analysis, develop holistic solutions that address the problem in the context of the larger system. How do these solutions account for the complex interactions and dynamics identified?
+
+Stakeholder Engagement and Feedback:
+
+Engage with stakeholders to gather feedback on the system analysis and proposed solutions. How do different stakeholders perceive the system and the problem? What insights can they offer?
+
+Implementation Strategy and Monitoring:
+
+Outline a strategy for implementing the chosen solutions, including steps to monitor the impacts of these solutions on the system and adjust as necessary.
+
+Expected Outcome: The system thinking analysis should result in a comprehensive understanding of the problem within the context of the larger system, including a detailed map or model of the system, identification of key dynamics and leverage points, and a set of holistic solutions designed to address the problem effectively while considering the system's complexity. Additionally, the analysis should include a plan for stakeholder engagement, implementation, monitoring, and ongoing system adaptation.
+
+---
+
+This prompt is designed to guide a thorough system thinking analysis, emphasizing the importance of understanding the broader system in which a problem exists. By focusing on the interactions and dynamics within the system, the aim is to identify impactful solutions that are informed by a deep comprehension of the system as a whole.

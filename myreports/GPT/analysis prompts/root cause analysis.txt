@@ -1,0 +1,51 @@
+Root Cause Analysis Prompt: Uncovering the Underlying Causes of Problems
+
+Objective: The aim is to conduct a root cause analysis on a specific problem, using the cause-effect model to move beyond surface-level symptoms and identify the deeper, underlying causes. This analysis seeks to understand the foundational issues contributing to the problem, enabling the development of effective and sustainable solutions.
+
+Prompt Details:
+
+Problem Definition:
+
+Clearly define the problem to be analyzed, including its symptoms, the context in which it occurs, and its impact on stakeholders or the system. What are the observable effects of the problem?
+
+Initial Cause-Effect Mapping:
+
+Create an initial map or diagram of the cause-effect relationships related to the problem. Start with the known symptoms and immediate causes, and begin tracing back to less obvious factors.
+
+Data Collection and Verification:
+
+Gather data and evidence related to the problem and its potential causes. Verify the accuracy of this information to ensure the analysis is based on reliable inputs.
+
+Identification of Contributing Factors:
+
+Identify all contributing factors to the problem, considering both direct and indirect causes. Which conditions or events allow the problem to occur?
+
+Layered Cause Analysis:
+
+Apply techniques such as the "5 Whys" method to each contributing factor, asking "why" repeatedly to peel back the layers of causes until reaching the underlying root causes.
+
+Categorization of Root Causes:
+
+Categorize the identified root causes based on their nature or type (e.g., procedural, technical, human, organizational). This can help in understanding the breadth of factors involved.
+
+Validation of Root Causes:
+
+Validate the identified root causes through further data analysis, stakeholder consultation, and expert review. Ensure that these causes are the true origin of the problem, not just correlated factors.
+
+Impact Assessment:
+
+Assess the impact of each root cause on the problem and the system as a whole. Which root causes have the most significant effect?
+
+Development of Solution Strategies:
+
+Develop targeted solution strategies for each validated root cause. What specific actions, changes, or interventions can address these foundational issues?
+
+Implementation and Monitoring Plan:
+
+Outline a plan for implementing the solution strategies, including mechanisms for monitoring their effectiveness in addressing the root causes and preventing problem recurrence.
+
+Expected Outcome: The root cause analysis should result in a detailed report that not only identifies and validates the underlying root causes of the problem but also categorizes these causes for better understanding. The report should propose targeted solution strategies for each root cause, accompanied by a practical implementation and monitoring plan to ensure the problem is effectively addressed and mitigated over the long term.
+
+---
+
+This prompt is designed to guide a thorough root cause analysis, emphasizing the systematic uncovering of deeper issues beyond the immediate symptoms of a problem. By identifying and addressing these foundational causes, the aim is to develop more effective, sustainable solutions that prevent problem recurrence.

@@ -1,0 +1,50 @@
+Cost-Benefit Analysis Prompt: Evaluating Trade-offs, Costs, and Benefits
+
+Objective: The objective is to perform a comprehensive cost-benefit analysis of potential solutions identified for a given problem or opportunity. This analysis will quantify and compare the economic, social, and environmental costs and benefits of each option to identify the most valuable and sustainable approach.
+
+Prompt Details:
+
+Overview of Potential Solutions:
+
+Provide a brief overview of each potential solution under consideration, including the primary goals and expected outcomes of these solutions.
+
+Identification of Costs:
+
+List all costs associated with implementing each solution. This includes direct costs (e.g., materials, labor, technology), indirect costs (e.g., training, maintenance), and intangible costs (e.g., impact on employee morale, brand reputation).
+Where possible, assign monetary values to these costs to facilitate comparison.
+
+Identification of Benefits:
+
+List all benefits expected from each solution, including direct benefits (e.g., increased efficiency, revenue growth), indirect benefits (e.g., enhanced customer satisfaction, improved employee wellbeing), and intangible benefits (e.g., environmental preservation, social impact).
+
+Quantify these benefits in monetary terms, estimating future cash flows or value creation resulting from the implementation of each solution.
+
+Time Frame and Discount Rate:
+
+Define the time frame over which the costs and benefits will be analyzed. Consider the expected lifespan of the solution or the period over which impacts will be significant.
+Select an appropriate discount rate to present value future costs and benefits, taking into account the time value of money and inflation.
+
+Risk and Uncertainty Analysis:
+
+Assess the risks and uncertainties associated with the costs and benefits of each solution. Include a sensitivity analysis to understand how changes in key assumptions or external factors could impact the outcomes.
+
+Non-Monetary Impacts:
+
+Consider non-monetary impacts that are significant but difficult to quantify. Discuss how these impacts might influence the overall assessment and decision-making process.
+
+Net Present Value (NPV) and Return on Investment (ROI):
+
+Calculate the Net Present Value (NPV) and Return on Investment (ROI) for each solution, based on the quantified costs and benefits. These metrics will help determine the financial viability and relative value of each option.
+Comparative Analysis and Trade-offs:
+
+Conduct a comparative analysis of the costs and benefits for each solution, highlighting trade-offs between different options. Consider both short-term and long-term impacts in this comparison.
+
+Recommendation and Justification:
+
+Based on the cost-benefit analysis, provide a recommendation for the most valuable approach. Justify this recommendation with a detailed explanation of how the benefits outweigh the costs, considering both the quantitative analysis and qualitative factors.
+
+Expected Outcome: The analysis should culminate in a comprehensive report detailing the costs and benefits of each potential solution, including quantitative metrics (NPV, ROI) and a discussion of non-monetary impacts. The report should offer a clear recommendation supported by a robust evaluation of economic, social, and environmental trade-offs.
+
+---
+
+This prompt is designed to guide a thorough cost-benefit analysis process, ensuring that all relevant costs and benefits are considered, quantified, and compared across potential solutions. The aim is to facilitate informed decision-making by identifying the approach that offers the greatest overall value and aligns with organizational goals and values.
